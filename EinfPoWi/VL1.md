@@ -15,7 +15,7 @@ header-includes:
 
 ---------->
 
-Wahlpflichtmodul Compilerbau
+Einführung in die Politikwissenschaften
 ====================
 
 <!-- md2apkg ignore-card -->
@@ -23,7 +23,6 @@ Wahlpflichtmodul Compilerbau
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Inhaltsverzeichnis**
-- [Wahlpflichtmodul Compilerbau](#wahlpflichtmodul-compilerbau)
 - [Formales](#formales)
 
 # Formales
