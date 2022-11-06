@@ -157,3 +157,18 @@ wie auch zwischen Staaten
 
 Definition von Max Weber (1864-1929): „Staat ist diejenige menschliche Gemeinschaft, welche innerhalb eines
 bestimmten Gebietes ... das Monopol legitimer physischer Gewaltsamkeit für sich (mit Erfolg) beansprucht.“
+
+Staatsrechtliche Definition von Georg Jellinek (1851-1911): Staatsgebiet, Staatsgewalt, Staatsvolk
+
+### Theorie nach Hobbes
+
+- Wir brauchen einen Staat für Sicherheit
+- fehlende Staatlichkeit bringt die Me in Naturzustand: jeder kann jeden vom Leben zum Tode befördern und somit Opfer von Gewalt werden
+- Lösung: Staatsvertrag (Kontraktualismus), den alle mit allen zugunsten eines Dritten schließen!
+- alle natürlichen Rechte auf einen Dritten übertragen, außer Recht auf Leben und Selbstverteidigung
+- Ziel: der Dritte soll für Frieden und Sicherheit sorgen
+- Leviathan
+
+### Theorie nach Locke
+
+- "Leben, Freiheit, Eigentum"
