@@ -169,47 +169,79 @@ Staatsrechtliche Definition von Georg Jellinek (1851-1911): Staatsgebiet, Staats
 - Ziel: der Dritte soll für Frieden und Sicherheit sorgen
 - Leviathan
 
-### Theorie nach Locke
-
-- "Leben, Freiheit, Eigentum"
-- Naturzustand ohne Geld "paradiesisch"
-- Einführung des Geldes sorgt für einen Krieg aller gegen alle
-- Lösung: Gesellschafts- und Herrschaftsvertrag
-- großer Unterschied zu Hobbes: kein Leviathan, sondern eine gewaltenteilige Regierung, in der sich die Gewalten gegenseitig beschränken (gewählte Legislative und monarchische Exekutive)
-
-### Fazit zu Hobbes
+### Bewertung von Hobbes & seiner Theorie
 
 - Denker der Aufklärung
-- kein liberaler Vordenker, da Widerstandsrecht ausgeschlossen
+- kein liberaler Denker -> Widerstandsrecht ausgeschlossen
 - Vordenker des Autoritarismus
-- Denker moderner Staatlichkeit und ein Begründer des staatlichen Gewaltmonopols als Voraussetzung für eine Rechtsordnung, die wiederum die Bürger (voreinander) schützt
+- Denker moderner Staatlichkeit und ein Begründer des staatlichen Gewaltmonopols als Voraussetzung für eine Rechtsordnung („auctoritas non veritas facit legem“), die wiederum die Bürger (voreinander) schützt
 
-### Fazit zu Locke
+### Theorie nach Locke
 
-- Vertreter des liberalen Besitzindividualismus
-- Vordenker demoraktischer Verfassungsstaat (Gewaltenteilung, Grundrechte, Parlamentarismus, Verantwortlichkeit, Widerstandsrecht)
+- "Leben, Freiheit, Eigentum" -> dafür braucht es einen Staat
+- Naturzustand ohne Geld ist "paradiesisch", Einführung des Geldes sorgt für einen Krieg aller gegen alle
+- Naturzustand durch Verträge beenden: Gesellschafts- und Herrschaftsvertrag
+- Erlangung von Life, Liberty, Property als unveräußerliche Naturrechte durch Staatlichkeit
+- Unterschied zu Hobbes: gewaltenteilige Regierung statt Leviathan (gewählte Legislative, monarchische Exekutive)
 
-### Gegenüberstellung Locke & Hobbes
+### Bewertung von Locke & seiner Theorie
 
-- Unterschiede spiegelen Spannungsverhältnis zwischen Sicherheit und Freiheit wider:
-  - Wie viel Freiheit soll/muss aufgegeben werden, um Sicherheit zu gewährleisten?
-  - Wie viel staatlich verbürgte Sicherheit soll/muss aufgegeben werden, um Freiheit zu gewährleisten?
-  - Sind Freiheit und Sicherheit gleichzeitig zu haben?
+- Apologet des liberalen Besitzindividualismus
+- Apologet = stellt voll und ganz hinter einer Theorie
+- Vordenker des demokratischen Verfassungsstaates (Gewaltenteilung, Grundrechte, Parlamentarismus, Verantwortlichkeit, Widerstandsrecht)
+  
+### Spannungsverhältnis Sicherheit & Freiheit
 
-## Staatliche Macht- und Gewaltausübung ist also unter bestimmten Bedingungen legitim. Gilt das auch für Gewalt von unten gegen staatliche Institutionen?
+- Wie viel Freiheit soll/ muss aufgegeben werden, um Sicherheit zu gewährleisten?
+- Wie viel staatlich verbürgte Sicherheit soll/ muss aufgegeben werden, um Freiheit zu gewährleisten?
+- Sind Freiheit und Sicherheit gleichzeitig zu haben?
 
-Antwort des GG, Art. 20:
+### Gewalt von unten gegen staatliche Institutionen legitim?
 
-(3) Die Gesetzgebung ist an die
-verfassungsmäßige Ordnung, die vollziehende
-Gewalt und die Rechtsprechung sind an Gesetz
-und Recht gebunden.
+- GG, Art. 20:
+- (3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.
+- (4) Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.
+- Ziviler Ungehorsam: bewusste symbolische Rechtsverletzungen um auf staatliche Misstände aufmerksam zu machen.
+  - kann unter bestimmten Rahmenbedingungen legitim sein
 
-(4) Gegen jeden, der es unternimmt, diese
-Ordnung zu beseitigen, haben alle Deutschen
-das Recht zum Widerstand, wenn andere Abhilfe
-nicht möglich ist.
+## Vom Sicherheits- und Rechtsstaat (Sicherheit und Freiheit) zum Kampf um soziale Rechte (Solidarität)
 
-### Ziviler Ungehorsam
+- am ursprünglichen (von Locke und Hobbes erdachten) Staatenkonstrukt entzündete sich ab dem 19. Jahrhundert sozialistische Kritik
+- Bourgeoisie (Besitzer von Produktionsmitteln) und Proletariat (Arbeitskraft) als prägende Klassen des Kapitalismus
+- Industrialisierung/ Soziale Frage entfachte Konflikt zw. formaler Gleichheit vor dem Gesetz (Bürgerrechte) und sozialer Ungleichheit der Klassen
+- der liberale Sicherheits- und Rechtsstaat legitimiere und stabilisiere die soziale Ungleichheit
+- Lösungsansätze: Klassenkampf, proletarische Revolution
+  - Zwischenstufe einer Diktatur des Proletariats (geführt von einer „Vorhut“ der Arbeiterklasse), Abschaffung des Privateigentums an Produktionsmitteln und weiterer liberaler Freiheitsrechte
 
-Bewusste und symbolische Rechtsverletzung, unter Inkaufnahme von Bestrafung, um auf staatliche Missstände aufmerksam zu machen.
+## Vom Klassenkampf zum pluralistischen Konflikt
+
+### Marxistische Konflikttheorie
+
+- Eigenschaft von Ausbeutergesellschaft
+- dysfunktional für wirtschaftliche und menschliche Entwicklung
+- Überwindung durch Revolution
+- ... hin zu einer harmonische Gesellschaft (Reich der Freiheit, in dem kein Mensch über den anderen herrschen soll)
+
+### liberal-pluralistische Konflikttheorie
+
+- universelle Erscheinung
+- funktional für die Entfaltung menschlicher und gesellschaftlicher Potenziale
+- Einhegung als Sicherstellung eines gewaltlosen Austrags
+- Kompromiss (wechselseitiges Entgegenkommen) oder Konsens (Übereinstimmung)
+
+#### Konflikte und Konflikttypen
+
+Streit oder Auseinandersetzungen zwischen widerstrebenden Personen oder Gruppen über unterschiedliche Interessen/Werte/Ziele/Strategien etc.
+Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand polit. und wissenschaftl. Debatten.
+
+- Ressourcen- und Verteilungskonflikte
+- Organisationskonflikt (Mittel der Durchsetzung/ der Erzielung eines gewünschten Resultats)
+- Ziel- und Wertekonflikte
+  
+## Der pluralistische Konflikt als Konflikt von Interessen
+
+- Interesse als verhaltensorientiertes Ziel oder Bedürfnis von Einzelnen oder Gruppen in einem sozialen Umfeld
+- Konflikte immer zwischen Interessengruppen
+- ToDo ab Foliensatz 3, Folie 9 weitermachen
+- 
+## Konflikt und Interessen – Was ist und wo bleibt das Gemeinwohl?
