@@ -172,3 +172,44 @@ Staatsrechtliche Definition von Georg Jellinek (1851-1911): Staatsgebiet, Staats
 ### Theorie nach Locke
 
 - "Leben, Freiheit, Eigentum"
+- Naturzustand ohne Geld "paradiesisch"
+- Einführung des Geldes sorgt für einen Krieg aller gegen alle
+- Lösung: Gesellschafts- und Herrschaftsvertrag
+- großer Unterschied zu Hobbes: kein Leviathan, sondern eine gewaltenteilige Regierung, in der sich die Gewalten gegenseitig beschränken (gewählte Legislative und monarchische Exekutive)
+
+### Fazit zu Hobbes
+
+- Denker der Aufklärung
+- kein liberaler Vordenker, da Widerstandsrecht ausgeschlossen
+- Vordenker des Autoritarismus
+- Denker moderner Staatlichkeit und ein Begründer des staatlichen Gewaltmonopols als Voraussetzung für eine Rechtsordnung, die wiederum die Bürger (voreinander) schützt
+
+### Fazit zu Locke
+
+- Vertreter des liberalen Besitzindividualismus
+- Vordenker demoraktischer Verfassungsstaat (Gewaltenteilung, Grundrechte, Parlamentarismus, Verantwortlichkeit, Widerstandsrecht)
+
+### Gegenüberstellung Locke & Hobbes
+
+- Unterschiede spiegelen Spannungsverhältnis zwischen Sicherheit und Freiheit wider:
+  - Wie viel Freiheit soll/muss aufgegeben werden, um Sicherheit zu gewährleisten?
+  - Wie viel staatlich verbürgte Sicherheit soll/muss aufgegeben werden, um Freiheit zu gewährleisten?
+  - Sind Freiheit und Sicherheit gleichzeitig zu haben?
+
+## Staatliche Macht- und Gewaltausübung ist also unter bestimmten Bedingungen legitim. Gilt das auch für Gewalt von unten gegen staatliche Institutionen?
+
+Antwort des GG, Art. 20:
+
+(3) Die Gesetzgebung ist an die
+verfassungsmäßige Ordnung, die vollziehende
+Gewalt und die Rechtsprechung sind an Gesetz
+und Recht gebunden.
+
+(4) Gegen jeden, der es unternimmt, diese
+Ordnung zu beseitigen, haben alle Deutschen
+das Recht zum Widerstand, wenn andere Abhilfe
+nicht möglich ist.
+
+### Ziviler Ungehorsam
+
+Bewusste und symbolische Rechtsverletzung, unter Inkaufnahme von Bestrafung, um auf staatliche Missstände aufmerksam zu machen.
