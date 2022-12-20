@@ -232,6 +232,7 @@ Staatsrechtliche Definition von Georg Jellinek (1851-1911): Staatsgebiet, Staats
 #### Konflikte und Konflikttypen
 
 Streit oder Auseinandersetzungen zwischen widerstrebenden Personen oder Gruppen über unterschiedliche Interessen/Werte/Ziele/Strategien etc.
+
 Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand polit. und wissenschaftl. Debatten.
 
 - Ressourcen- und Verteilungskonflikte
@@ -242,6 +243,38 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
 
 - Interesse als verhaltensorientiertes Ziel oder Bedürfnis von Einzelnen oder Gruppen in einem sozialen Umfeld
 - Konflikte immer zwischen Interessengruppen
-- ToDo ab Foliensatz 3, Folie 9 weitermachen
-- 
+  - gegenüber anderen Gruppen mit abweichenden Interessen
+  - Interessen der Gruppenmitgliedern durch Mitwirkung und Einwrkung auf Parlamente, Regierung, Öffentlichkeit
+- Abgrenzung: Interessengruppen (Verbände) vs. Parteien vs. Vereine
+- Kritikpunkte:
+  - Marginalisierung bestimmter interessen
+  - Legitimationsdefizit
+
+### Ziel und Bedürfnis/Nutzenorientierung
+
+- ökonomisch, politisch, kulturell, ökologisch
+- materiell und immateriell (z.B. moralisch)
+- bewusst und unbewusst
+- öffentlich und privat
+
+### Verhalten
+
+- Geltendmachung der Interessen
+- Interessenaggregation
+- Interessenselektion
+- Interessenartikulation und Interessenvertretung
+
+### Soziales Umfeld
+
+- politische Rahmenbedingungen (z. B. Vereinigungsfreiheit in Art. 9 GG)
+- gesellschaftliche Rahmenbedingungen (z. B. Optionen, konkurrierende Interessen)
+
 ## Konflikt und Interessen – Was ist und wo bleibt das Gemeinwohl?
+
+Zentraler politikwissenschaftlicher Begriff: Gemeinwohl als das Wohl aller Mitglieder einer Gesellschaft (lat. bonum commune); allgemeiner Zweck, weswegen sich Menschen in einer politischen Aggregation zusammenschließen
+
+Ernst Fraenkel und Parallelogramm der Kräfte:
+- Wie kann in einer pluralistischen Demokratie trotz Partialinteressen ein Gesamtwille gebildet und ein Gemeinwohl gefördert werden?
+- Gemeinwohl ist Ergebnis aus dem Parallelogramm der ökonomischen, sozialen, politischen und ideologischen Kräfte einer Nation, wenn Ausgleich angestrebt und erreicht wird, welcher objektiv Mindestanforderungen einer gerechten Sozialordnung entspricht und subjektiv von keiner Gruppe als "Vergewaltigung" empfunden wird
+
+Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden werden
