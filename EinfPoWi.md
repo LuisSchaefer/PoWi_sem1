@@ -274,7 +274,117 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
 Zentraler politikwissenschaftlicher Begriff: Gemeinwohl als das Wohl aller Mitglieder einer Gesellschaft (lat. bonum commune); allgemeiner Zweck, weswegen sich Menschen in einer politischen Aggregation zusammenschließen
 
 Ernst Fraenkel und Parallelogramm der Kräfte:
+
 - Wie kann in einer pluralistischen Demokratie trotz Partialinteressen ein Gesamtwille gebildet und ein Gemeinwohl gefördert werden?
 - Gemeinwohl ist Ergebnis aus dem Parallelogramm der ökonomischen, sozialen, politischen und ideologischen Kräfte einer Nation, wenn Ausgleich angestrebt und erreicht wird, welcher objektiv Mindestanforderungen einer gerechten Sozialordnung entspricht und subjektiv von keiner Gruppe als "Vergewaltigung" empfunden wird
 
 Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden werden
+
+## Demokratie und Legitimität
+
+- Das Diktum von Abraham Lincoln: Demokratie sei "die Herrschaft
+  - des Volkes,
+  - durch das Volk und
+  - für das Volk"
+  - Verfahren nicht definiert, Volk hat eine besondere und keine passive Rolle
+
+- Voraussetzung für die Demokratie (wie für jede andere Herrschaftsform): von den Herrschenden beanspruchte und den Berrschten entgegengebrachte Anerkennung der Herrschaftsform - die Legitimität
+
+### Legitimitätsglaube
+
+- Legale Herrschaft (z.B. Demokratie)
+  - Kraft Satzung (Grundlage einer Satzung: formaler Akt der Herrschaftsverleihung, z.B. Wahlen)
+  - Kompetenz (rational)
+- Traditionelle Herrschaft (z.B. Monarchie)
+  - Kraft Glaubens an die Heiligkeit der von jeher vorhandenen Ordnung und Herrengewalt
+  - Privileg (ständisch, also kraft Eigenstellung)
+- Charismatische Herrschaft (z.B. NS Zeit, Diktatur)
+  - Kraft affektueller Hingabe an die Person des Herrn und ihre Gnadengabe (Charisma)
+  - Sendung des Herrn (irrational)
+
+- Legitimitätsglaube in Demokratie: Anerkennungswüridkgiet des Verfahrens, mit dem das Volk, durch das Volk über das Volk herrscht.
+
+### Theorienlandschaft
+
+- konkurrierende Konzepte und Theorien der Demokratie
+
+- zwei Arten:
+  - normative Theorien der Demokratie
+  - Realistische/ empirische Theorien der Demokratie
+
+### Merkmalsdimensionen des Demokratiebegriffes
+
+- Unterscheidung Deskription und Präskription (keine klaren Grenzen), es braucht beide Definitionen
+- demokratisches Ideal definiert nicht die Wirklichkeit und wird nie Wirklichkeit sein
+- Demokratie aus den Wechselwirkungen zwischen ihren Idealen und ihrer Wirklichkeit entsteht und gestaltet wird
+
+## Normative Demokratiekonzeptionen: Rousseau
+
+1. Bürger
+
+- aktive Bürger, nehmen an Herrschaftsprozess teil
+- Bürger sind gleichzeitig Regierende und Regierte (Identität)
+- radikale Volkssouveränität, d.h. Me regieren sich selbst und geben Herrschaft nicht ab
+- intensive Partizipation
+
+2. Rechtsverständnis
+
+- Rechtsordnung geht aus der Volkssouveränität hervor
+  
+3. Politischer Prozess und Willensbildung
+
+- Sonderwille, Gesamtwille und Gemeinwille
+  - Sonderwille: individueller Wille
+  - Gesamtwille: Mehrheitsentscheidung
+  - Gemeinwille: was an allen Sonderwillen verallgemeinbar ist (theoretisches Vernunftskonstrukt)
+  - Regierende müssen über Gemeinwillen aufklären und diesen finden
+- direkte Demokratie (Gesetzgebung)
+- keine Gewaltenteilung
+- keine Fraktionen
+- keine Repräsentation
+- keine Trennung von Staat und Gesellschaft
+
+- Rousseau vertritt positiven Freiheitsbegriff
+  
+## Realistische Demokratiekonzeptionen: Schumpeter
+
+1. Bürger
+
+- Konsumenten, verführbar, der Führung bedürftig
+- nur bei eigenen Interessen rational, sonst irrational
+- der mündige Bürger als Illusion; man kommt an den Massen aber nicht mehr vorbei
+- "jegliche Herrschaft ist Elitenherrschaft"
+
+2. Rechtsverständnis
+
+- Unterbetonung von Rechtsstaatlichkeit und rechtlichen Grenzen
+- Gesetze und Verordnungen als Nebenprodukt des politischen Prozesses
+
+3. Politischer Prozess und Willensbildung
+
+- Mobilisierung/Erwerb von Wählerstimmen – politische Produkte gegen Wählerstimmen
+- große Bedeutung politischer Führung
+- Unterbetonung von Vermittlungsinstanzen
+- Demokratie: Prozess ohne Eigenwert, rein als Methode um Herrschaft zu finden
+  
+## Realistische Demokratiekonzeptionen: Dahl
+
+Es gibt eine Idealdemokratie und eine Polyarchie
+
+### Idealdemokratie
+
+- effektive Partizipation, d.h. mögl. alle entscheiden alles
+- Gleichheit beim Wählen/Entscheiden
+- Kenntnis aller relevanten Informationen
+- volle Bestimmung der politischen Agenda durch die Bürger
+- Einbeziehung aller mündigen Erwachsenen
+
+### Polyarchie (als mögliche Demokratie in komplexen Gesellschaften)
+
+Demokratie benötigt
+• gewählte Amtsträger
+• freie, faire, regelmäßige Wahlen
+• Rede- und Meinungsfreiheit, Pressefreiheit
+• Vereinigungsfreiheit
+• letztinstanzliche Kontrolle über die politische Agenda
+• Einbeziehung aller mündigen Erwachsenen (soweit möglich)
