@@ -94,7 +94,7 @@ Abwehrrechten“ kodifiziert
   - anfällig für Missbrauch: „Die Freiheit der Wölfe ist der Tod
 der Lämmer.
 
-- Positive Freiheit: Freiheit zu... (z.B. Rousseau)
+- Positive Freiheit: Freiheit zur... (z.B. Rousseau)
   - Selbstbestimmung i. S. v. Beteiligung an den öffentlichen
 Angelegenheiten (Gesetzgebung und der Wahl der Regierung)
   - in modernen Verfassungen in Mitwirkungsrechten kodifiziert
@@ -382,9 +382,278 @@ Es gibt eine Idealdemokratie und eine Polyarchie
 ### Polyarchie (als mögliche Demokratie in komplexen Gesellschaften)
 
 Demokratie benötigt
-• gewählte Amtsträger
-• freie, faire, regelmäßige Wahlen
-• Rede- und Meinungsfreiheit, Pressefreiheit
-• Vereinigungsfreiheit
-• letztinstanzliche Kontrolle über die politische Agenda
-• Einbeziehung aller mündigen Erwachsenen (soweit möglich)
+- gewählte Amtsträger
+- freie, faire, regelmäßige Wahlen
+- Rede- und Meinungsfreiheit, Pressefreiheit
+- Vereinigungsfreiheit
+- letztinstanzliche Kontrolle über die politische Agenda
+- Einbeziehung aller mündigen Erwachsenen (soweit möglich)
+
+## Die Anfänge der Politiklehre an den mittelalterlichen Universitäten (13.-15. Jh.)
+
+- Rückgriff auf antike Traditionen (v. a. Aristoteles)
+  - Polis als etymologischer Ursprung des Politikbegriffes
+  - Mensch als "zoon politikon"
+  - Staatsformenlehre
+
+### Verbindung der antiken Tradition mit christl. Herrschaftsvorstellungen
+
+- Thomas von Aquin übersetzt sämtliche Werke des Aristoteles ins Lateinische, Tradition der Aristoteles-Kommentare
+- Anerkennung des Gemeinschaftscharakters des Menschen, aber: Notwendigkeit einer Leitung, weil die Pluralität der menschlichen Zwecke dies verlangt
+- Ablehnung Aristokratie (Streit), Befürwortung Monarchie ("natürliche Herrschaftsform", Geist-Körper-Analogie)
+- Gütekriterium monarchischer Herrschaft: Orientierung an Gott
+
+### Praktische Anwendung: Fürstenspiegel-Literatur
+
+- Politikberatung: Mahnung und Hinweise an Herrschende
+- Regierungsweise, politisches Verhalten, Erziehung des Nachwuchses
+
+## Frühneuzeitlicher Staat und Auffächerung der Staatswissenschaften (16.-18. Jh.)
+
+### Konflikte der Zeit
+
+- Reformation -> Konflikt zw. Kaiser und Reichsstände
+  - Konfliktlinie: Deutschen Könige und Kaiser vs. Reichsfürsten (Eigenständigkeit der Reichsfürsten)
+  - Augsburger Religionsfriede 1555
+- Dreißigjähriger Krieg -> Staatenbildungskrieg, Souveränität der Reichsfürsten (gegenüber der Zentralmacht, aber auch den Landständen)
+  - 1648 Westfälischer Friede: Bestätigung des Augsburger Religionsfriedens unter Hinzunahme der ‚Reformierten‘ 
+- Heilige Römische Reich deutscher Nationen als zentraler Akteur
+
+
+### Adressaten der Politikwissenschaft
+
+- Fürsten, aufgeklärtes Bürgertum: Fürstenspiegel
+- Beamte: Reformierung als wesentliche Träge staatlichen Handelns
+  - PoWi war dafür da Beamte auszubilden, der Praxisbezug war neu -> Kameralwissenschaften 
+
+### Themen der Politikwissenschaft
+
+- Abstrakte Staatstheorie: Macht, Herrschaft, Staat, Souveränität, Heil, Widerstand, Ehrlichkeit, Lüge (wie Hobbes, Locke, Machiavelli)
+- Praxisbezug und Politikberatung: konkrete "kleinkarierte" (Bleek) Verwaltungstechniken des Machterwerbs und Machterhalts, aber auch Entwicklung unterschiedlicher Politikfelder ("Policey"), v.a. ab 17. Jh.
+
+### Niccolo Machiavelli als Techniker der Macht und Ratgeber des Fürsten
+
+- ToDo (Folie 11, VL5)
+
+### Studiengänge für Kameralwissenschaft im 18. Jh. in Halle und Frankfurt/Oder für den preußischen Absolutismus
+
+- Professoren: praxiserfahrene Gelehrte
+- Sujet (Gegenstand) der Professoren: Kameralistische Lehrbücher
+
+### Politikwissenschaft als Studienfach für Staatsbeamte des neuzeitlich-absolutistischen Territorialstaates (Kameralwissenschaft)
+
+- Polizeiwissenschaft ("Policey"): politische Themenfelder zum Zustand einer guten Ordnung eines städtischen oder territorialen Gemeinwesens (z.B. Kriminal- und Strafrechtswesen, Zenurs, Verwaltung, Wirtschaftspolitik -> Merkantilismus)
+  - Merkantilismus aktive Wirtschaftspolitik des Staates, Zölle auf fertig importierte Produkte, unverarbeitetes günstiger
+- Ökonomik: verzahnt mit Polizeiwissenschaften
+  - Schwerpunkt neben Staat als Hauswirtschaft des Fürsten auch Familienwirtschaft
+  - Hausvater als "Fürst der Familie" (noch keine Trennung von Familie und Wirtschaft)
+  - Familie (familia) als Personenverbund des Hauses
+- Kameralistik: verzahnt mit Polizeiwissenschaften
+  - Lehre von der Vermehrung des Vermögens der Obrigkeit
+  - v.a. Steuer- und Finanzsystem, Buchhaltung, Pflege von Bergbau, Forsten, Straßen, Kanälen, Staatsbetrieb
+
+## Politische Wissenschaft im Preußen des 19. Jahrhundert
+
+### Historischer Kontext
+
+- Ende des Ancien Régime (franz. Revolution)
+- Napoleonische Besatzung, Ende des Heiligen Römischen Reiches Deutscher Nation und Gründung des Rheinbundes
+(1806)
+- Völkerschlacht Leipzig (1813), Wiener Kongress und Deutscher Bund (1815), Heilige Allianz (1815) - Restauration
+- Wartburgfest (1817), Hambacher Fest (1832) - Gegenbewegung
+
+### Napoleonische Zeit als Impuls für inhaltliche Kontroversen: Diskussion um Verfassung am Beispiel Dahlmann/Stahl
+
+- Diskussion über: Stellung des Monarchens und des Parlaments, sowie die Freiheit und Grundrechte der Bürger
+- Friedrich Christoph Dahlmann
+  - starke Stellung des Monarchen mit Vetorecht, 2 Kammern Parlamente (Gesetzes- und Budgetrecht) -> klar an Regeln der Verfassung gebunden
+  - konst. Monarchie (Schwerpunkt auf Konstitution = Verfassung)
+  - Reform
+  - liberal
+  - Rationalismus (Vertragsdenken)
+- Julias Stahl
+  - Monarch muss Verfassung achten, aber Staat keine Vertragskonstruktion sondern als Institution die von Gott eingesetzt wurde -> stärkere Rechte des Monarchen (Initiativ- und Budgetrecht, (nicht) Einberufung Volksvertretung)
+  - Volksvertretung dient der Zustimmung des Monarchen
+  - Monarchen soll Interesse des Staates und Gemeinwesens im Fokus haben, nicht die eigenen
+  - konst. Monarchie (Schwerpunkt auf Monarchie)
+  - Tradition
+  - konservativ (in dem Fall eher monarchistisch)
+  - Religion (Staat ist von Gott eingesetzte Institution)
+
+### Napoleonische Zeit als Impuls für Studienreformen (in Preußen nach Niederlagen Napoleons 1813, 1815)
+
+- Schlüsselrolle Wilhelm von Humboldts als "Kulturminister" in Preußen
+- Reaktion auf Krise der Uni und Krise des Kameralismus
+  - Uni war v.a. Ort der Vermittelung von Glaubensgrundsätzen
+  - Kameralismus als umfassende Steuerungswissenschaft der Obrigkeit widersprach Individualismus und Aufklärung
+- Abwendung von Absolutismus und Kameralismus als "Reform von oben"
+- Hinwendung zur "zweckfreien Suche nach wissenschaftlicher Wahrheit"
+
+- Grund: Staatsbeamte mit Einsicht und Weitblick, nicht lediglich Ausführungsorgane, Allgemeinbildung statt Spezialbildung, politische Philosophie statt "Brotstudien"
+
+- Mitte 19. Jh. keine alleinstehende Politikwissenschaft mehr vorhanden
+
+## Weimarer Republik und NS
+
+### Gründungssituation
+
+- Ende 1. WK
+- 1918: Revolution, Abdankung Kaiser, Ausrufung Republik
+- 1918-1919: Republiken Österreich, Tschechoslowakei, Ungarn
+- Feb. 1919- Mai 1920: Verfassungsgebende deutsche Nationalversammlung (Weimar)
+- 28.06.1919: Versailler Vertrag
+- 1920: erste reguläre Wahl zum Reichstag
+
+### Weimarer Staatsrechtsdebatte
+
+- Hans Kelsen
+  - Dominanz der Rechtsnorm
+  - Recht konstituiert Ordnung
+  - Vernachlässigung des materiellen Rechtsinhalts (Verfahren sind wichtiger)
+  - Recht dominiert die Politik
+  - Verfassungsgericht
+  
+- Carl Schmitt
+  - legitimierte NS Politik
+  - Dominanz der politische Entscheidung
+  - Politik konstituiert Ordnung
+  - Dominanz des materiellen Rechtsinhalts
+  - Politik nutzt das Recht nur als Mittel (der "Feindbekämpfung"), Verfassung/ Rechtsnorm kommt danach
+  - politische Entscheidungsträger
+  
+### Deutsche Hochschule für Politik als Keimzelle der deutschen Politikwissenschaft (gegr. 1920)
+
+- Unterstützung für neu gegründete Demokratie
+- akademische und nicht-akademische Ausbildungsgänge
+- Curriculum (Lehrplan): Allgemeine Politik, Politische Geschichte und Politische Soziologie, Außenpolitik und Auslandskunde, Innenpolitik, Recht, Wirtschaftspolitik - später weitere Spezialisierungen
+
+ab 1933:
+
+- verlängerter Arm der NS Diktatur, gelenkt von einem Kommissar aus dem Reichspropagandaministerium
+- Umwälzung Lehrpersonal
+- Umwälzung Lehrinhalt (Propaganda, Wehrpolitik, Rassenkunde, Feinderkundung, Siedlungspolitik)
+- Schulungszentrum für NSDAP-"Führernachwuchs"
+
+ab 1948:
+
+- von verfolgten Wissenschaftlern neu gegründet
+- 1959 in FU Berlin eingegliedert
+  
+#### Zeitumbruch Weimarer Republik zu NS Diktatur
+
+- 30.01.1933: Ernennung Hitlers als Reichskanzler
+- 1933: Ermächtigungsgesetze
+- 1935: "Nürnberger Gesetze"
+- 9./19.11.1938: Progrome gegen Juden
+- 01.09.1939-08.05.1945: Zweiter Weltkrieg
+
+## Demokratiewissenschaft – Orientierung in den 40er und 50er Jahren
+
+### Motive für die Einrichtung politikwissenschaftlicher Institute und Studiengänge
+
+- Ursachen des NS als Erziehungsproblem interpretiert (dt. Volk hat Untertanengeist, auf Hierarchien und Autoritäten fußendes Staatsverhältnis)
+- Adorno "Studien zum autoritären Charakter" - drei Charaktereigenschaften:
+  - Wille zur Unterwerfung
+  - Demütigung nach Unten
+  - Konventionalismus
+
+- NS ist ein Mentalitätsproblem -> Bildung und Erziehung benötigt
+- Politikwissenschaften als Demokratiewissenschaften
+
+### Maßnahmen zur Einführung einer deutschen Politikwissenschaft an den Universitäten
+
+- Konferenz 1949: „Einführung der politischen Wissenschaften an den deutschen Universitäten und Hochschulen“ (hessisches Staatsministerium und amerikanische Militäradministration)
+- Widerstände durch Juristen und Historiker
+- schnelle Einführung aufgrund des politischen Willens
+- zur Etablierung benötigt:
+  - Professoren und Institute
+  - Fachverbände - DVPW 1951, DGfP 1983
+  - Fachzeitschriften
+
+### Fachzeitschriften
+
+Frühe Fachzeitschriften:
+- Zeitschrift für Politik (ZfP), ab 1954
+- Politische Vierteljahresschrift (PVS), ab 1960
+  
+Weitere Fachzeitschriften:
+- Zeitschrift für Politikwissenschaft
+- Zeitschrift für internationale Beziehungen
+- Wikipedia zählt 49 deutsche politikwissenschaftliche Fachzeitschriften auf
+
+## Ausdifferenzierung der Politikwissenschaft seit den 60er Jahren
+
+### Ausdifferenzierung in die 5 klassischen Teildisziplinen des Fachs
+
+- Politische Theorie und Ideengeschichte
+- Politisches System der Bundesrepublik
+- Internationale Beziehungen
+- Vergleichende Politikwissenschaft
+- Didaktik der Politik (ab 60er Jahre)
+
+### „Schulenbildung“
+
+- normativ-ontologisch
+- emprisch-analytisch
+- kritisch-dialektisch
+  
+#### normativ-ontologisch
+
+- Suche nach dem Wesen des Menschens (nach Aristoteles), Seins-Ordnung feststellen um Prinzipien guter politischer Ordnung abzuleiten
+- Theoretisches Reflektieren und Nachdenken
+- z.B. "Warum sind Parteien sinnvoll?" -> Pluralität der Interessen & Naturrechte Me müssen sich zusammenfinden können
+
+#### emprisch-analytisch
+
+- Wie funktioniert Politik? Wie ist die politische Ordnung? Wie funktioniert sie?
+- Beobachtung, Erhebung, Interpretation & Auswertung von Daten
+- zwei Arten:
+    1. induktiv: Einzelfall analysieren und danach Suche nach weiteren Fällen
+    2. deduktiv: Theorie und danach passende Fälle suchen
+- z.B. "Warum gewinnen Parteien Wahlen?" -> deduktiv, d.h. Theorie "Parteien gewinnen Wahlen, wenn..." und jetzt Einzelfälle suchen (z.B. Redeanalyse, Wahlprogramme)
+
+#### kritisch-dialektisch
+
+- geht von einer Kritik an normativ-ontologisch und empirisch-analytisch aus
+- beide beschreiben die Welt, so wie sie ist & geht nicht davon aus, dass es vom Me gemacht ist -> kein Blick auf die Zukunft, verfestigt Gegebenes
+- z.B. "Wie erklärt man die Existenz von Parteien unter einem marixistischer Konflikttheorie Blickwinkel?" -> Parteien als bürgerl. kapitalistisches Konstrukt angesehen
+
+### Einflussreich für die Diskussion seit den 60er Jahren: Der Positivismusstreit
+
+- Ursprung Soziologie, Einfluss auf PoWi
+- Debatte zwischen emprisch-analytischen und kritisch-dialektischen Zugängen
+- Charles Merriam: "behavioral revolution"
+  - Etablierung der Politikwissenschaft als empirische Sozialwissenschaft – orientiert an den Naturwissenschaften
+  - als OB-Kandidat: "Warum hab ich die Wahl verloren?" -> deskriptive Verhaltens- und Verhandlungsforschung, Beobachtung der Realität
+
+- Kritik von Theodor W. Adorno
+  - "Frankfurter Schule" -> Abwendung Empirismus
+
+#### Ergebnis Positivismusstreit (Heute)
+
+- PoWi als empirische Sozialwissenschaft
+- meist in Fakultäten für Sozialwissenschaft, Sozial- und Verhaltenswissenschaften etc. (nicht mehr Geisteswissenschaft)
+
+#### Merkmale behavioral revolution
+
+- Theoriegeleitetheit der Forschung
+- Suche nach Regelmäßigkeiten
+- Nachprüfbarkeit und Objektivität
+- Trend zur Quantifizierung
+- Steuerbarkeit
+- Beispiel: Wählerforschung
+
+#### Merkmale behavioral revolution am Bsp. "Parteien müssen Wähler der Mitte ansprechen"
+
+- Theoriegeleitetheit der Forschung - "Parteien müssen Wähler der Mitte ansprechen"
+- Suche nach Regelmäßigkeiten - Wahlprogramme, Reden
+- Nachprüfbarkeit und Objektivität - Forscher müssen bei gleicher Ausgangslage zu ähnlichen Ergebnissen kommen
+- Trend zur Quantifizierung - Korrelationswert der Programme & Wahlergebnisse
+- Steuerbarkeit - man erhält, was gemacht werden muss um Wahlen zu gewinnen
+  
+## Entwicklung der Politikwissenschaft seit den 80er Jahren
+
+- *Entspannung* der politischen Konflikte im Fach (von Ausnahmen abgesehen)
+- *Professionalisierung* (Diskussion um das Berufsbild; Lehrerausbildung; method. Standards einer modernen Sozialwissenschaft; Politikberatung)
+- *Spezialisierung* (Studiengänge, DVPW heute mit 10 Sektionen, 24 Arbeitskreisen, 10 Themengruppen: www.dvpw.de)
+- *Internationalisierung* (z. B. durch EU-geförderte Forschungszusammenarbeit u. student. Mobilität)
