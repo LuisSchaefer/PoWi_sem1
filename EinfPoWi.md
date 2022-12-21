@@ -657,3 +657,140 @@ Weitere Fachzeitschriften:
 - *Professionalisierung* (Diskussion um das Berufsbild; Lehrerausbildung; method. Standards einer modernen Sozialwissenschaft; Politikberatung)
 - *Spezialisierung* (Studiengänge, DVPW heute mit 10 Sektionen, 24 Arbeitskreisen, 10 Themengruppen: www.dvpw.de)
 - *Internationalisierung* (z. B. durch EU-geförderte Forschungszusammenarbeit u. student. Mobilität)
+
+## Wissenschaft - eine Definition von W. Patzelt
+
+- zwei Differenzmarkierungen:
+  - wissenschaftliche Aussagen & Aussagen des gesunden Menschenverstands
+  - empirische & logische Aspekte des Wahrheitsgehaltes
+
+### Differenzmarkierung wissenschaftliches und alltägliches Wissen
+
+- Alltagswissen:
+  - implizit-selbstverständlich (Selbstverständlichkeiten, nicht zu hinterfragen, z.B. Verkehrsunfall)
+  - unreflektiert perspektivisch (Standpunkte) (Fokus auf das, was Medien bspw. aufgreifen)
+  - unreflektiert selektiv (andere Einflüsse nicht erkannt)
+  
+- wissenschaftliches Wissen:
+  - explizit-problematisierend (Vorausurteile vorsichtiger formuliert, zurückhaltend)
+  - reflektiert perspektivisch (Sehpunkte) (Einschränkungen des Blickwinkels bewusst sein)
+  - reflektiert selektiv (andere Einflüsse sind bekannt, Auslassungen werden zumindest benannt)
+
+### Differenzmarkierung empirische & logische Aspekte des Wahrheitsgehaltes
+
+- empirischer Wahrheitsgehalt
+  - Übereinstimmung mit der Realität, empirische Triftigkeit:
+    - Der Kanzler besitzt laut GG Richtlinienkompetenz
+- logischer Wahrheitsgehalt
+  - widerspruchslose, gültige Schlussform:
+    - Alle F sind H
+    - X ist F
+    - X ist H
+  - Vorsicht: Mit logisch ungültigen (falschen) Schlussregeln, kann man mit wahren Prämissen zu wahren und falschen Konklusionen kommen.
+  
+### deskriptive und normative Aussagen
+
+- fehlt in Patzelts Definition
+- deskriptiv: Ist-Aussagen
+- normativ: Soll-Aussagen (sind hierbei überhaupt "wahre" Aussagen zu treffen? -> Bsp. Weber spricht dagegen, Kant dafür)
+
+### Typen (politik-) wissenschaftlicher Sätze/ Aussagen
+
+1. Beschreibungen
+2. Wenn-dann-Aussagen
+3. Erklärungen
+4. Prognosen
+5. Werturteile
+6. Handlungsanweisungen
+
+- Mit normativem und deskriptivem Gehalt und empirischem wie logischem Wahrheits- bzw. Geltungsanspruch
+
+### Wahrheitsbegriff von Wissenschaft
+
+- Fallibilität: da Wissenschaft von fehlbaren Menschen betrieben wird, gibt es keine "endgültige, unfehlbare" Wahrheit
+- Prosesshaftigkeit: Annäherung an Wahrheit als leitendes Ideal
+- Diskursivität: Überprüfbarkeit von Aussagen
+- Karl Popper: Objektivität liegt vor, wenn sie intersubjektiv nachprüfbar ist
+
+## Spielregeln der Wissenschaft
+
+Falibilität, Prosesshaftigkeit, Diskursivität:
+
+- wissenschaftliche Diskussion (d.h. Publikation d. Ergebnisse);
+- wissenschaftliche Kritik und Korrektur (Prozesshaftigkeit!);
+- Offenlegung der Quellen und der Methoden d. Datenerhebung u. -analyse;
+- Querverweise auf abweichende wissenschaftl. Ergebnisse u. ggf. argumentative Auseinandersetzung damit;
+
+Kritikfähigkeit:
+
+- keine Immunisierung gegen Kritik etwa durch Bezug auf "Autoritäten" u. "Klassiker;
+- undeutliche Sprache vermeiden, die die eigentl. Argumentation mehr verschleiert als deutlich macht u. es dem Wissenschaftler erlaubt, Kritik als "falsches Verständnis" zu denunzieren.
+
+Charakter wissenschaftlicher Aussagen repräsentieren (explizit-problematisierend, reflektiert perspektivisch (Sehpunkte) und reflektiert selektiv):
+
+- Offenlegung d. grundlegenden wissenschaftstheoret. Annahmen u. der erkenntnisleitenden Interessen
+
+## Wissenschaftsmethodische Schulen
+
+![wissenschaftsmethodische_schulen](assets/wissenschaftsmethodische_schulen.png)
+
+## Definitionen
+
+- *Nominaldefinitionen:* Zuweisung eines bekannten Begriffs (definiens) zu einem unbekannten (definiendum)
+- *Operationale Definitionen:* Zuweisung von empirischen Referenten zu Begriffen
+
+- *Theorien:* Vernetzung von Aussagen zu einem komplexen Aussagegefüge (Theorie der Gewaltenteilung)
+- *Modell:* verdichtete Kurzfassungen von Theorien
+
+- wissenschaftlicher Prozess, Indikatoren etc. sind nie endgültig, "nichts Absolutes"
+
+### Definitionen am Bsp. rechtsextremistische Einstellungen
+
+- *Definiendum* (zu definierender Begriff) - rechtsextremistische Einstellungen
+- *Definiens* (das Definierende) rechtsextremistischer Einstellungen nach "Konsensdefinition"
+  - Affinität zu rechtsautoritären Regierungsformen
+  - chauvinistische Einstellungen (hinzukommend: Definition Chauvinismus -> Kette von Definitionen)
+  - Verharmlosung/Rechtfertigung des NS
+  - ...
+
+- *Operationale Definition* - für "Affinität zu rechtsautoritärer Regierungsform"
+  - Indikatoren (empirische Referenten): Grad der Zustimmung zu bestimmten Aussagen (aus Fragebögen), z.B. "Wir sollten einen Führer haben, der Deutschland zum Wohle aller mit starker Hand regiert"
+  - ab überwiegende Zustimmung, Zuordnung zu rechtsextremistischer Einstellung
+
+## Was ist eine Theorie?
+
+Fragen an die Welt, z.B.
+- Wie entsteht Terrorismus?
+- Weshalb gibt es Armut auf der Welt?
+
+Kurzdefinition:
+Verknüpfung von Aussagen (über die Welt) zu einem komplexen Aussagengefüge
+
+### Wie funktioniert Theoriebildung?
+
+- *Induktiv* Ausgangspunkt sind einzelne Tatsachenaussagen und konkrete Zusammenhänge, die zu einem Aussage- /Erklärungszusammenhang verknüpft werden (Beispiel: Parteien artikulieren den Willen ihrer Mitglieder an die politischen Entscheidungsträger und die Bürger)
+- *Deduktiv* Ausgangspunkt sind relativ allgemeine Aussagen, deren Argumentation systematisch weitergeführt, erweitert und geprüft wird (Beispiel: Responsivität ist zentraler Bestandteil der Demokratie)
+
+### Das Verhältnis von Theorien zur empirischen Forschung
+
+- Einerseits stellen sie Begriffe, Definitionen, Argumentationen, Denkmuster bereit, die Datenerhebung (Operationalisierung) u. Datenauswertung bzw. - interpretation anleiten
+- Andererseits werden Theorien durch die Ergebnisse empirischer Forschung überprüft u. ggfs. falsifiziert (widerlegen) oder verifiziert (bestätigen)
+
+### Poppers Falsifikationismus
+
+- *Vorgehen:* Wissenschaftler stellt Vermutungen auf, die überprüft werden; finden sie Bestätigung, dann werden sie vorläufig akzeptiert, finden sie Widerlegung, müssen sie fallengelassen werden
+- *Beispiel:* Die Beobachtung eines schwarzen Schwans falsifiziert die Hypothese ein für alle mal, dass alle Schwäne weiß sind
+- *Fazit:* Beobachtungen können Wahrheit nie finden, aber die Falschheit von Aussagen
+
+- Absolute, endgültige Wahrheit werden wir nie finden, können nur Teile ausschließen
+
+### Zum Erkenntniswert von Theorien
+
+- Theorien, soweit sie nicht falsifiziert sind, haben eine Entsprechung in der Realität
+- Theorien konstituieren auch ihren Gegenstand (die Realität)
+
+### Reicht eine einzige Theorie, um ein Phänomen zu erklären?
+
+- Pluralismus von Theorien!
+- Es braucht mehr als eine Theorie um ein Phänomen zu erklären
+- Patzelt: Metapher des Scheinwerfers (Art, Anzahl, Farbe)
