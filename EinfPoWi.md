@@ -6,7 +6,6 @@
 - Klausurformat single und multiple choice)
 - Literaturempfehlung: Politische Theorie Jürgen Hartmann 2. Auflage (online Thulb)
 
-
 ## Was ist Politik? - Der Mensch als "zoon politikon" (Aristoteles)
 
 „Wer aber nicht in Gemeinschaft leben kann oder in seiner Autarkie ihrer nicht bedarf, der
@@ -22,14 +21,13 @@ herausgeg. von Olof Gigon, München 1971, 48 ff.)
 
 - ersten Gemeinschaften zum Überleben, spätere (insb. Polis) das gelungene Leben
 
-### Erste Staatsformenlehre nach Aristoteles 
+### Erste Staatsformenlehre nach Aristoteles
 
 |Zahl der Herrschenden|Zum gemeinsamen Nutzen|Zum Wohl der Herrschenden|
 |---------------------|----------------------|-------------------------|
 |Einer|Königtum|Tyrannis|
 |Einige|Aristokratie|Oligarchie (Herrschaft der Reichen)|
 |Alle, viele, die Menge|Politie|Demokratie (Herrschaft der Armen)|
-
 
 ### Gegensatzpaare von Ulrich von Alemann
 
@@ -295,27 +293,27 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
 
 1. Bürger
 
-- aktive Bürger, nehmen an Herrschaftsprozess teil
-- Bürger sind gleichzeitig Regierende und Regierte (Identität)
-- radikale Volkssouveränität, d.h. Me regieren sich selbst und geben Herrschaft nicht ab
-- intensive Partizipation
+   - aktive Bürger, nehmen an Herrschaftsprozess teil
+   - Bürger sind gleichzeitig Regierende und Regierte (Identität)
+   - radikale Volkssouveränität, d.h. Me regieren sich selbst und geben Herrschaft nicht ab
+   - intensive Partizipation
 
 2. Rechtsverständnis
 
-- Rechtsordnung geht aus der Volkssouveränität hervor
+   - Rechtsordnung geht aus der Volkssouveränität hervor
   
 3. Politischer Prozess und Willensbildung
 
-- Sonderwille, Gesamtwille und Gemeinwille
-  - Sonderwille: individueller Wille
-  - Gesamtwille: Mehrheitsentscheidung
-  - Gemeinwille: was an allen Sonderwillen verallgemeinbar ist (theoretisches Vernunftskonstrukt)
-  - Regierende müssen über Gemeinwillen aufklären und diesen finden
-- direkte Demokratie (Gesetzgebung)
-- keine Gewaltenteilung
-- keine Fraktionen
-- keine Repräsentation
-- keine Trennung von Staat und Gesellschaft
+   - Sonderwille, Gesamtwille und Gemeinwille
+     - Sonderwille: individueller Wille
+     - Gesamtwille: Mehrheitsentscheidung
+     - Gemeinwille: was an allen Sonderwillen verallgemeinbar ist (theoretisches Vernunftskonstrukt)
+     - Regierende müssen über Gemeinwillen aufklären und diesen finden
+   - direkte Demokratie (Gesetzgebung)
+   - keine Gewaltenteilung
+   - keine Fraktionen
+   - keine Repräsentation
+   - keine Trennung von Staat und Gesellschaft
 
 - Rousseau vertritt positiven Freiheitsbegriff
   
@@ -323,22 +321,22 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
 
 1. Bürger
 
-- Konsumenten, verführbar, der Führung bedürftig
-- nur bei eigenen Interessen rational, sonst irrational
-- der mündige Bürger als Illusion; man kommt an den Massen aber nicht mehr vorbei
-- "jegliche Herrschaft ist Elitenherrschaft"
+   - Konsumenten, verführbar, der Führung bedürftig
+   - nur bei eigenen Interessen rational, sonst irrational
+   - der mündige Bürger als Illusion; man kommt an den Massen aber nicht mehr vorbei
+   - "jegliche Herrschaft ist Elitenherrschaft"
 
 2. Rechtsverständnis
 
-- Unterbetonung von Rechtsstaatlichkeit und rechtlichen Grenzen
-- Gesetze und Verordnungen als Nebenprodukt des politischen Prozesses
+   - Unterbetonung von Rechtsstaatlichkeit und rechtlichen Grenzen
+   - Gesetze und Verordnungen als Nebenprodukt des politischen Prozesses
 
 3. Politischer Prozess und Willensbildung
 
-- Mobilisierung/Erwerb von Wählerstimmen – politische Produkte gegen Wählerstimmen
-- große Bedeutung politischer Führung
-- Unterbetonung von Vermittlungsinstanzen
-- Demokratie: Prozess ohne Eigenwert, rein als Methode um Herrschaft zu finden
+   - Mobilisierung/Erwerb von Wählerstimmen – politische Produkte gegen Wählerstimmen
+   - große Bedeutung politischer Führung
+   - Unterbetonung von Vermittlungsinstanzen
+   - Demokratie: Prozess ohne Eigenwert, rein als Methode um Herrschaft zu finden
   
 ## Realistische Demokratiekonzeptionen: Dahl
 
@@ -355,6 +353,7 @@ Es gibt eine Idealdemokratie und eine Polyarchie
 ### Polyarchie (als mögliche Demokratie in komplexen Gesellschaften)
 
 Demokratie benötigt
+
 - gewählte Amtsträger
 - freie, faire, regelmäßige Wahlen
 - Rede- und Meinungsfreiheit, Pressefreiheit
@@ -389,15 +388,14 @@ Demokratie benötigt
   - Konfliktlinie: Deutschen Könige und Kaiser vs. Reichsfürsten (Eigenständigkeit der Reichsfürsten)
   - Augsburger Religionsfriede 1555
 - Dreißigjähriger Krieg -> Staatenbildungskrieg, Souveränität der Reichsfürsten (gegenüber der Zentralmacht, aber auch den Landständen)
-  - 1648 Westfälischer Friede: Bestätigung des Augsburger Religionsfriedens unter Hinzunahme der ‚Reformierten‘ 
+  - 1648 Westfälischer Friede: Bestätigung des Augsburger Religionsfriedens unter Hinzunahme der ‚Reformierten‘
 - Heilige Römische Reich deutscher Nationen als zentraler Akteur
-
 
 ### Adressaten der Politikwissenschaft
 
 - Fürsten, aufgeklärtes Bürgertum: Fürstenspiegel
 - Beamte: Reformierung als wesentliche Träge staatlichen Handelns
-  - PoWi war dafür da Beamte auszubilden, der Praxisbezug war neu -> Kameralwissenschaften 
+  - PoWi war dafür da Beamte auszubilden, der Praxisbezug war neu -> Kameralwissenschaften
 
 ### Themen der Politikwissenschaft
 
@@ -546,10 +544,12 @@ ab 1948:
 ### Fachzeitschriften
 
 Frühe Fachzeitschriften:
+
 - Zeitschrift für Politik (ZfP), ab 1954
 - Politische Vierteljahresschrift (PVS), ab 1960
   
 Weitere Fachzeitschriften:
+
 - Zeitschrift für Politikwissenschaft
 - Zeitschrift für internationale Beziehungen
 - Wikipedia zählt 49 deutsche politikwissenschaftliche Fachzeitschriften auf
@@ -733,6 +733,7 @@ Charakter wissenschaftlicher Aussagen repräsentieren (explizit-problematisieren
 ## Was ist eine Theorie?
 
 Fragen an die Welt, z.B.
+
 - Wie entsteht Terrorismus?
 - Weshalb gibt es Armut auf der Welt?
 
