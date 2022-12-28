@@ -1,5 +1,194 @@
 # Einführung in das politische System der BRD
 
+## Das politische Mehrebenensystem: Länder und Kommunen
+
+- *Mehrebenensystem*
+  - Politisches System, in dem Kompetenzen und Ressourcen der Gesetzgebung, Regierung und Verwaltung auf verschiedenen Ebenen aufgeteilt sind
+  - Kompetenzen und Ressourcen sind gleichzeitig miteinander verwoben (Politikverflechtung)
+  - Multi-Level-Governance: Das komplexe Beziehungsgefüge verschiedener horizontaler sowie vertikaler politischer Entscheidungsstrukturen
+- *Subsidiarität*
+  - Wichtiges Prinzip der Staats- und Gesellschaftsorganisation
+  - Eine übergeordnete Ebene greift erst dann ein, wenn die nach- oder untergeordnete Gemeinschaft nicht ausreicht
+
+### Föderalismus
+
+Ein politisches System, das mindestens zwei territoriale Ebenen aufweist, auf denen regiert wird, wobei diese Ebenen verfassungsmäßig garantierte Kompetenzen und Ressourcen zur Verfügung haben, die nur mit einer qualifizierten Mehrheit geändert werden können.
+
+- als unveränderliches Prinzip im GG
+  - Art. 20 GG, u.a. Deutschland ist ein Bundesstaat
+  - Art 79 (3) GG: „Ewigkeitsgarantie“: kann selbst mit 2/3-Mehrheit nicht verändert werden
+    - Bestandsgarantie von Bund und Ländern;
+    - gewisse finanzielle Selbstständigkeit von Bund und Ländern;
+    - Mitwirkung der Länder an der Gesetzgebung
+
+#### Formen des Föderalismus
+
+![formen_föderalismus](assets/formen_fderalismus.png)
+
+#### Charakteristika des dt. Verbundsföderalismus
+
+1. Kompetenzverteilung: Funktionale Differenzierung nach Kompetenzarten
+2. Beteiligung der Länderregierungen an der Bundespolitik: Zustimmungspflichtige Gesetze
+3. Ressourcen: Hoher Anteil an Gemeinschaftssteuern
+4. Kooperation unter den Ländern
+   - Länderfinanzausgleich
+   - Kultusministerkonferenz etc.
+
+#### Kompetenzverteilung: Gesetzgebung
+
+- "Kompetenzvermutung" bei den Ländern (Art. 70 GG)
+  - Länder haben Gesetzgebungsrecht solange GG das nicht dem Bunde verleiht
+- Ausschließliche Bundesgesetzgebung (Art. 73 GG)
+  - Zentrale Bereiche der zentralstaatlichen Souveränität
+  - Äußeres, äußere Sicherheit, Grenz- und Zollfragen, Staatsbürgerschaft, Währungsfragen
+- Konkurrierende Gesetzgebung (Art. 72 und 74 GG)
+  - Justiz, Umwelt, Verkehr..
+  - in den Bereichen hat Bund Gesetzgebungsrecht zur Herstellung gleichwertiger Lebensverhältnisse
+- Ländern bleibt Kultur, Schulwesen, Polizei, seit 2006 Bildung allgemein
+
+#### Kompetenzverteilung: Verwaltung
+
+- Gesetzesvollzug wichtige Funktion der Länder, d.h. Verwaltungsbehörden vor allem auf Länderebene
+- Bundesverwaltungsbehörden als Ausnahme:
+  - eigene Bundesverwaltungen: Äußeres, Bundeswehr, Luftfahrtverwaltung, Bundeswasserstraßen
+  - Bundesaufsicht: Bundesagentur für Arbeit, Bundesfinanzverwaltung, Bundeskriminalamt
+
+- *funktionale Differenzierung nach Kompetenzarten*:
+  - Gesetzgebungsdominanz beim Bund
+  - Verwaltungsdominanz bei den Ländern
+
+### Bundesrat
+
+- Art. 50 GG: durch Bundesrat wirken Länder bei Gesetzgebung und Verwaltung des Bundes und in EU Angelegenheiten mit
+- Vertretung Länderinteressen auf Bundesebene
+- Mitwirkung Bundesgesetzgebung
+  - Zustimmungs- und Einspruchsgesetze
+  - Vetorecht, wenn Länderinteressen betroffen
+- Mitwirkung Bundesverwaltung
+  - Zustimmungspflicht für Rechtsverordnungen und Verwaltungsvorschriften, die Länder betreffen
+- Mitwirkung Angelegenheiten EU
+- Wahl Hälfte der Richter BVerfG
+- klageberechtigt BVerfG
+
+#### Entstehungsgeschichte
+
+- Konflikt im parlamentarischen Rat: Senats- vs. Bundesratslösung
+  - Senat: direkt gewählte Vertreter
+  - Bundesrat: entsandt von Landesregierung
+  
+#### Zusammensetzung
+
+- 69 Mitglieder
+- Mitglieder der Regierungen der Länder, die sie bestellen und abberufen
+- Mitglieder unterliegen Kabinettsnanweisungen (imperatives Mandat)
+- mind. 3 Stimmen, zwei Mio. Einwohner 4 Stimmen,sechs Mio. Einwohner 5 Stimmen, sieben Mio. Einwohner 6 Stimmen
+
+#### Zwischen Länderinteressen und Parteipolitik
+
+- Zwei verschiedene Handlungslogiken:
+  - Sachverwalter Länderinteressen
+  - Durchsetzung parteipolitischer Interessen
+- Zentrale These von Gerhard Lehmbruch (2000)
+  - Spannungsverhältnis zwischen bipolaren Parteienwettbewerb und institutioneller Zwang zur politischen Kooperation
+  - Parteienwettbewerb überlagere Föderalismus
+  - Beeinträchtige die Funktions- und Leistungsfähigkeit des Regierungssystems: Strukturbruch und Blockadeinstitution
+
+#### Zwischen Länderinteressen und Parteipolitik Argumente
+
+- *pro Parteiendominanz*:
+  - bei oppositioneller Mehrheit kann Bundesrat zum parteipolitisch dominierten Vetospieler werden
+  - Oppositionelle Mehrheit nutzt Vetomacht für Verhandlungen, um eigene Positionen einbringen zu können
+- *pro Länderinteressen*:
+  - gemeinsame Länderinteressen, zumeist finanzieller oder föderaler Art (Länderkompetenzen)
+  - Konflikt arme vs. reiche Länder überlagert Parteiinteressen
+  
+#### Die parteipolitischen Strukturen im Bundesrat: ABC-Modell
+
+- *A-Länder*: SPD führt jeweilige Landesregierung
+- *B-Länder*: CDU/CSU führt die jeweilige Landesregierung
+- *C-Länder*: neutrale Länder
+- *G-Länder* ToDo
+
+#### ROM-Modell (nach Lehmbruch)
+
+- *R-Länder*: Landesregierungspartei(en) auch an Bundesregierung beteiligt
+- *O-Länder*: Landesregierungspartei(en) auf der Bundesebene in der Opposition
+- *M-Länder*: "gemischte" Länder (Parteien aus Bundestagsmehrheit und -opposition); Landesregierungspartei(en) nicht im Bundestag
+
+#### Fazit Bundesrat
+
+- Mischung beider Motivationen in der Realität
+- Blockaden insbesondere bei gegenläufigen Mehrheiten wahrscheinlicher
+- Länder müssen Länderinteressen und parteipolitische Interessen ausbalancieren und entscheiden je nach Vor- und Nachteilen im konkreten Einzelfall
+- Zentrale Rolle des Vermittlungsausschusses für Konsensfindung
+- Bundesrat daher nicht automatisch eine ‚Blockadeinstitution‘ – stattdessen: z.T. langwierige Aushandlungsprozesse
+- Durch gesellschaftliche und politische Heterogenität sind die Anforderungen an die Bund-Länder-Koordinierung und die Kompromisssuche gestiegen
+- Kooperationsfähigkeit ist zentral für Funktionsfähigkeit des föderalen Regierungssystems
+
+### Ressourcen: Finanzverfassung
+
+- "Haushaltswirtschaft" von Bund und Ländern unabhängig
+- Einschränkungen der Länder:
+  - Abhängigkeit von Gesetzgebung und Finanzzuwendungen des Bundes (*vertikale Verflechtung*)
+    - gemeinschaftliche Steuern ca. 70% des Steueraufkommens
+    - einige wenige Bundes-, Landes- und Gemeindesteuern
+  - Forderung nach Einheitlichkeit der Lebensverhältnisse im Bundesgebiet (GG) führte zu Finanzausgleich der Länder (*horizontale Verflechtung*)
+
+### Kooperation zwischen den Ländern
+
+- Länderfinanzausgleich
+  - Angleichung der Länder nur noch durch Zu- und Abschläge bei der Umsatzsteuerverteilung
+  - Ausgleichszahlungen durch Bund
+  - alle Länder verbessern sich, bekommen mehr Geld vom Bund
+  - geben zugleich wichtige Kompetenzen (teilweise) auf (z.B. Digitalisierung, Steuerverwaltung)
+  - Wechsel vom brüderlichen zum väterlichen Föderalismus
+
+- Kultusministerkonferenz
+  - freiwilliger Zusammenschluss der für Bildung und Forschung sowie kulturelle Angelegenheiten zuständigen Minister bzw. Senatoren der Länder
+  - freiwilliges Koordinationsgremium der Länder
+  - keine unmittelbare Rechtssetzungsbefugnis, Entscheidungen nicht bindend
+
+- Ministerpräsidentenkonferenz
+  - inoffizielles Gremium der Selbstkoordination der 16 deutschen Länder
+  - Als Bund-Länder-Runde zentrale Koordination in der Corona-Pandemie
+
+### Politikverflechtungsfalle (Fritz Scharpf, 1985)
+
+- durch Politikverflechtung Effizienz- und Blockadeprobleme (suboptimale Policy-Ergebnisse, lange dauern, kostspielig)
+- These: keine Reformen möglich, die zu einer Entflechtung führen
+- Gründe: Akteure, die von Verflechtung profitieren haben bei Reformen Veto-Recht
+- Föderalismusreformen I und II mit dem Ziel der Entflechtung
+
+### Die kommunale "Ebene"?
+
+- Art. 28 GG
+- Staatsrechtlich besteht die BRD nur aus zwei Ebenen: Bund und Länder, die Kommunen sind Selbstverwaltungskörperschaften und damit Teil
+der Exekutive der Länder => staatsrechtlich: keine Ebene
+- Aber politische Ebene, da grundgesetzlich garantiertes Recht auf Selbstverwaltung mit gewählter Vertretung
+
+#### Aufgaben der Kommunen
+
+- Eigener Wirkungskreis
+  - Freiwillige Selbstverwaltungsaufgaben (ÖPNV, Sportstätten, Museen...)
+    - Ob und wie sind Gemeinde überlassen
+  - Pflichtige Selbstverwaltungsaufgaben (Schulen, Straßenbau, Bebauungsplan...)
+    - Ob ist geregelt, wie ist Gemeinde überlassen
+- Übertragener Wirkungskreis
+  - Pflichtaufgaben nach Weisung (Meldewesen, Wohnungsbauförderung...)
+    - Ob ist geregelt, wie hat Gemeinde teilweise Ermessungsspielraum
+  - Auftragsangelegenheiten (Wahlen, Standesamt...)
+    - Ob und wie sind geregelt
+
+- Je weniger Entscheidungsspielraum, umso größer Rechtsaufsicht
+  
+#### Bedeutung der lokalen Ebene?
+
+- „Schule der Demokratie“, Partizipation
+- Bürgernähe
+- Elitenrekrutierung (Parteien)
+- Umsetzung/ Implementation staatlicher Aufgaben
+- „Lokal adäquate Problemlösung“ => Ausdruck des Subsidiaritätsprinzips
+
 ## Fragen und Diskussion zur Polity-Dimension
 
 ### Prinzipien der Machtverteilung und Entscheidungsfindung im Kabinett (Regelung Grundgesetz)
