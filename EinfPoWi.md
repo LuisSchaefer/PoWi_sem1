@@ -29,6 +29,11 @@ herausgeg. von Olof Gigon, München 1971, 48 ff.)
 |Einige|Aristokratie|Oligarchie (Herrschaft der Reichen)|
 |Alle, viele, die Menge|Politie|Demokratie (Herrschaft der Armen)|
 
+### Das Politische bei Aristoteles ist
+
+- das Streben nach dem höchsten Gut, der Glückseligkeit, die sich in der wohlorganisierten Polis verwirklichen
+- alles Handeln der Bürger einer Polis, das deren Ordnung betrifft (Organisation von Herrschaft in Verfassungen und Gesetzen)
+
 ### Gegensatzpaare von Ulrich von Alemann
 
 Fazit: Es gibt keinen einheitliche Politikbegriff, sondern eine wissenschaftliche
@@ -117,6 +122,8 @@ wie auch zwischen Staaten
 
 ## Gewalt
 
+*STEHT NICHT AUF DER LISTE VON MAY *
+
 - immer: physische Beeinträchtigung
 - interpersonell: face-to-face-Situation
 - institutionell: "Staatsgewalt", "legislative Gewalt", "exekutive Gewalt" ggü. Personen/ Gruppen
@@ -177,6 +184,8 @@ Staatsrechtliche Definition von Georg Jellinek (1851-1911): Staatsgebiet, Staats
 
 ## Vom Sicherheits- und Rechtsstaat (Sicherheit und Freiheit) zum Kampf um soziale Rechte (Solidarität)
 
+*NICHT AUF DER LISTE VON MAY*
+
 - am ursprünglichen (von Locke und Hobbes erdachten) Staatenkonstrukt entzündete sich ab dem 19. Jahrhundert sozialistische Kritik
 - Bourgeoisie (Besitzer von Produktionsmitteln) und Proletariat (Arbeitskraft) als prägende Klassen des Kapitalismus
 - Industrialisierung/ Soziale Frage entfachte Konflikt zw. formaler Gleichheit vor dem Gesetz (Bürgerrechte) und sozialer Ungleichheit der Klassen
@@ -212,6 +221,8 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
   
 ## Der pluralistische Konflikt als Konflikt von Interessen
 
+*NICHT AUF MAYS LISTE*
+
 - Interesse als verhaltensorientiertes Ziel oder Bedürfnis von Einzelnen oder Gruppen in einem sozialen Umfeld
 - Konflikte immer zwischen Interessengruppen
   - gegenüber anderen Gruppen mit abweichenden Interessen
@@ -221,7 +232,13 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
   - Marginalisierung bestimmter interessen
   - Legitimationsdefizit
 
+### Interesse nach Patzelt
+
+„Interesse ist „ein verhaltensorientiertes Ziel oder Bedürfnis von Einzelnen oder Gruppen in einem sozialen Umfeld, das zu erreichen bzw. zu befriedigen in irgendeiner für ihn wichtigen Weise das Wohlergehen eines Einzelnen oder eines Kollektivs fördern bzw. zu einem Vorteil führen würde.“
+
 ### Ziel und Bedürfnis/Nutzenorientierung
+
+*NICHT AUF MAYS LISTE*
 
 - ökonomisch, politisch, kulturell, ökologisch
 - materiell und immateriell (z.B. moralisch)
@@ -230,12 +247,16 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
 
 ### Verhalten
 
+*NICHT AUF MAYS LISTE*
+
 - Geltendmachung der Interessen
 - Interessenaggregation
 - Interessenselektion
 - Interessenartikulation und Interessenvertretung
 
 ### Soziales Umfeld
+
+*NICHT AUF MAYS LISTE*
 
 - politische Rahmenbedingungen (z. B. Vereinigungsfreiheit in Art. 9 GG)
 - gesellschaftliche Rahmenbedingungen (z. B. Optionen, konkurrierende Interessen)
@@ -253,6 +274,8 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
 
 ## Demokratie und Legitimität
 
+*NICHT AUF MAYS LISTE*
+
 - Das Diktum von Abraham Lincoln: Demokratie sei "die Herrschaft
   - des Volkes,
   - durch das Volk und
@@ -261,7 +284,7 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
 
 - Voraussetzung für die Demokratie (wie für jede andere Herrschaftsform): von den Herrschenden beanspruchte und den Berrschten entgegengebrachte Anerkennung der Herrschaftsform - die Legitimität
 
-### Legitimitätsglaube
+### Legitimitätsglaube & dessen Formen (nach Max Weber)
 
 - Legale Herrschaft (z.B. Demokratie)
   - Kraft Satzung (Grundlage einer Satzung: formaler Akt der Herrschaftsverleihung, z.B. Wahlen)
@@ -280,16 +303,20 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
 - konkurrierende Konzepte und Theorien der Demokratie
 
 - zwei Arten:
-  - normative Theorien der Demokratie
-  - Realistische/ empirische Theorien der Demokratie
+  - normative Theorien der Demokratie (Was macht Demokratie aus, warum ist sie anderen Regierungsformen überlegen)
+  - Realistische/ empirische Theorien der Demokratie (was Demokratie ist und wie sie wirklich funktioniert)
 
 ### Merkmalsdimensionen des Demokratiebegriffes
+
+*NICHT AUF MAYS LISTE*
 
 - Unterscheidung Deskription und Präskription (keine klaren Grenzen), es braucht beide Definitionen
 - demokratisches Ideal definiert nicht die Wirklichkeit und wird nie Wirklichkeit sein
 - Demokratie aus den Wechselwirkungen zwischen ihren Idealen und ihrer Wirklichkeit entsteht und gestaltet wird
 
 ## Normative Demokratiekonzeptionen: Rousseau
+
+*MAY EXPLIZIT: EINE DETAILLIERTE KENNTNIS NICHT VERLANGT, UNTERSCHIEDE THEORIEFAMILIEN WICHTIGER*
 
 1. Bürger
 
@@ -319,6 +346,8 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
   
 ## Realistische Demokratiekonzeptionen: Schumpeter
 
+*MAY EXPLIZIT: EINE DETAILLIERTE KENNTNIS NICHT VERLANGT, UNTERSCHIEDE THEORIEFAMILIEN WICHTIGER*
+
 1. Bürger
 
    - Konsumenten, verführbar, der Führung bedürftig
@@ -340,7 +369,7 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
   
 ## Realistische Demokratiekonzeptionen: Dahl
 
-Es gibt eine Idealdemokratie und eine Polyarchie
+Es gibt eine Idealdemokratie und eine Polyarchie als Vermittlungsversuch normativer und realistischer Ansätze
 
 ### Idealdemokratie
 
@@ -370,7 +399,7 @@ Demokratie benötigt
 
 ### Verbindung der antiken Tradition mit christl. Herrschaftsvorstellungen
 
-- Thomas von Aquin übersetzt sämtliche Werke des Aristoteles ins Lateinische, Tradition der Aristoteles-Kommentare
+- (Thomas von Aquin übersetzt sämtliche Werke des Aristoteles ins Lateinische, Tradition der Aristoteles-Kommentare)
 - Anerkennung des Gemeinschaftscharakters des Menschen, aber: Notwendigkeit einer Leitung, weil die Pluralität der menschlichen Zwecke dies verlangt
 - Ablehnung Aristokratie (Streit), Befürwortung Monarchie ("natürliche Herrschaftsform", Geist-Körper-Analogie)
 - Gütekriterium monarchischer Herrschaft: Orientierung an Gott
@@ -383,6 +412,8 @@ Demokratie benötigt
 ## Frühneuzeitlicher Staat und Auffächerung der Staatswissenschaften (16.-18. Jh.)
 
 ### Konflikte der Zeit
+
+*GROB*
 
 - Reformation -> Konflikt zw. Kaiser und Reichsstände
   - Konfliktlinie: Deutschen Könige und Kaiser vs. Reichsfürsten (Eigenständigkeit der Reichsfürsten)
@@ -413,6 +444,8 @@ Demokratie benötigt
 
 ### Politikwissenschaft als Studienfach für Staatsbeamte des neuzeitlich-absolutistischen Territorialstaates (Kameralwissenschaft)
 
+*GROB*
+
 - Polizeiwissenschaft ("Policey"): politische Themenfelder zum Zustand einer guten Ordnung eines städtischen oder territorialen Gemeinwesens (z.B. Kriminal- und Strafrechtswesen, Zenurs, Verwaltung, Wirtschaftspolitik -> Merkantilismus)
   - Merkantilismus aktive Wirtschaftspolitik des Staates, Zölle auf fertig importierte Produkte, unverarbeitetes günstiger
 - Ökonomik: verzahnt mit Polizeiwissenschaften
@@ -427,6 +460,8 @@ Demokratie benötigt
 
 ### Historischer Kontext
 
+*GROB*
+
 - Ende des Ancien Régime (franz. Revolution)
 - Napoleonische Besatzung, Ende des Heiligen Römischen Reiches Deutscher Nation und Gründung des Rheinbundes
 (1806)
@@ -434,6 +469,8 @@ Demokratie benötigt
 - Wartburgfest (1817), Hambacher Fest (1832) - Gegenbewegung
 
 ### Napoleonische Zeit als Impuls für inhaltliche Kontroversen: Diskussion um Verfassung am Beispiel Dahlmann/Stahl
+
+*GROB*
 
 - Diskussion über: Stellung des Monarchens und des Parlaments, sowie die Freiheit und Grundrechte der Bürger
 - Friedrich Christoph Dahlmann
@@ -468,6 +505,8 @@ Demokratie benötigt
 
 ### Gründungssituation
 
+*GROB*
+
 - Ende 1. WK
 - 1918: Revolution, Abdankung Kaiser, Ausrufung Republik
 - 1918-1919: Republiken Österreich, Tschechoslowakei, Ungarn
@@ -476,6 +515,8 @@ Demokratie benötigt
 - 1920: erste reguläre Wahl zum Reichstag
 
 ### Weimarer Staatsrechtsdebatte
+
+*BESONDERS RELEVANT*
 
 - Hans Kelsen
   - Dominanz der Rechtsnorm
@@ -626,6 +667,8 @@ Weitere Fachzeitschriften:
   
 ## Entwicklung der Politikwissenschaft seit den 80er Jahren
 
+*NICHT IN MAYS LISTE*
+
 - *Entspannung* der politischen Konflikte im Fach (von Ausnahmen abgesehen)
 - *Professionalisierung* (Diskussion um das Berufsbild; Lehrerausbildung; method. Standards einer modernen Sozialwissenschaft; Politikberatung)
 - *Spezialisierung* (Studiengänge, DVPW heute mit 10 Sektionen, 24 Arbeitskreisen, 10 Themengruppen: www.dvpw.de)
@@ -732,6 +775,8 @@ Charakter wissenschaftlicher Aussagen repräsentieren (explizit-problematisieren
 
 ## Was ist eine Theorie?
 
+*NICHT IN MAYS LISTE*
+
 Fragen an die Welt, z.B.
 
 - Wie entsteht Terrorismus?
@@ -741,6 +786,8 @@ Kurzdefinition:
 Verknüpfung von Aussagen (über die Welt) zu einem komplexen Aussagengefüge
 
 ### Wie funktioniert Theoriebildung?
+
+*NICHT IN MAYS LISTE*
 
 - *Induktiv* Ausgangspunkt sind einzelne Tatsachenaussagen und konkrete Zusammenhänge, die zu einem Aussage- /Erklärungszusammenhang verknüpft werden (Beispiel: Parteien artikulieren den Willen ihrer Mitglieder an die politischen Entscheidungsträger und die Bürger)
 - *Deduktiv* Ausgangspunkt sind relativ allgemeine Aussagen, deren Argumentation systematisch weitergeführt, erweitert und geprüft wird (Beispiel: Responsivität ist zentraler Bestandteil der Demokratie)
