@@ -815,3 +815,96 @@ Verknüpfung von Aussagen (über die Welt) zu einem komplexen Aussagengefüge
 - Pluralismus von Theorien!
 - Es braucht mehr als eine Theorie um ein Phänomen zu erklären
 - Patzelt: Metapher des Scheinwerfers (Art, Anzahl, Farbe)
+
+## Das Paradigma der rationalen Wahl
+
+- Akteur als homo oeconomicus
+  - prüft rational Wahlentscheidungen
+  - Abwägung von Kosten (Restriktionen) und Nutzen einer Wahlentscheidung
+  - Entscheidung *immer* für größten Nutzen
+  - Beziehung der Akteursebene zur Makroebene: sozialer Austausch von knappen Gütern (materiellen oder immateriellen), "Markt"-Modell
+  - Abhängig von Prämissen (Präferenzordnung, Transparenz etc.)
+
+- Nutzen nicht zwingend egoistisch gemeint: Geld, Leben, Werte, Altruismus, Lebensführung, ...
+
+### Welche Prämissen werden vorausgesetzt? Akteur
+
+- kennt alle Entscheidungsalternativen genau
+- Konstanz der Präferenzen (mind. im Untersuchungszeitraum); sonst Verhalten mit dem Modell nicht erklärbar
+- weiß genau, in welcher Rangfolge die Wünsche stehen (Präferenzrangordnung)
+  - Konnektivität (Präferenz- oder Indifferenzrelation, keine unbestimmte Relation)
+  - Transitivität (x>y, y>z also x>z)
+  - Kontinuität (x>y, z~y also z>y)
+
+### Die rationale Wahl im politischen Bereich – Anthony Downs (*1930)
+
+- Politik als komplexes Tauschsystem (politische Maßnahmen - Stimmen/Macht)
+- Orientierungspunkte: Max Weber und Josef Schumpeter
+  - Konkurrenzkampf der Parteien fördert Auswahl kompetenter "Führer"
+  - Schumpeter sieht Wähler nicht als kompetente Nutzenmaximierer, sondern als beeinflussbares "Stimmvieh"
+
+#### Grundannahme zum politischen Handeln der Bürger (Wahl)
+
+Parteiendifferential in einem Zweiparteisystem: *LT. MAY BES. WICHTIG*
+
+![Parteidifferential](assets/parteidifferential.png)
+
+U -> use
+
+Wahlentscheidung entspricht strukturell der Entscheidung für eines von zwei Produkten mit identischem Preis und bekannten Eigenschaften, die sich in ihrem Nutzwert unterscheiden!
+
+#### Probleme des Modells der rationalen Wahlentscheidung der Bürger (Downs)
+
+1. Sind die Eigenschaften von Partei A und B bekannt? Kennt der Wähler exakt den Nutzen von A oder B?
+  ![Erwartungen und echter Nutzen](assets/Erwartungen_Nutzen_Downs.png)
+   - E -> expectations
+   - d. h. der Wähler vergleicht den tatsächlichen Nutzen der Regierung von Partei A mit dem hypothetischen bzw. erwarteten Nutzen einer Regierung durch Partei B.
+2. Frage der Koalitionspräferenz in Mehrparteiensystem entscheidend, hier aber Informationsdefizit
+   - Frage der Aussicht präferierter Partei, die Regierung zu stellen
+   - Frage nach Koalitionsverhandlungen
+   - steigende Kosten durch Informationsbeschaffung
+3. Wahlbeteiligung - Wahlparadoxon *LT. MAY BES. WICHTIG*
+   - nur wenn Ergebnis > herauskommt, ist Wahlbeteiligung rational
+   - extrem unwahrscheinlich
+   - *Es ist also rational nicht zur Wahl zu gehen. Oder?*
+  ![Nutzenkalkül der Wähler](assets/Nutzenkalkuel_Waehler.png)
+
+#### Probleme des Modells der rationalen Wahlentscheidung der Bürger (Olson)
+
+- Wie soll ich handeln ohne zu wissen, wie sich Andere verhalten?
+  - Verzichte ich und bin der Einzige, ist die Wirkung sehr gering
+  - Verzichten alle anderen und ich nicht, ist die Luft sauber und ich habe es bequem
+- *Wie man es auch wendet: Ich sollte mit dem Auto fahren. Oder?*
+
+#### Grundannahmen zum politischen Agieren von Parteien (Downs)
+
+1. Akteure als Nutzenmaximierer:
+   1. Parteien u Politiker: Nutzen besteht im Erwerb politischer Ämter und Mandate/ Macht
+   2. Wähler: Nutzen besteht in einer bestimmten Politik, die in ihrem Interesse ist (Issue-Orientierung)
+2. Politischer Markt:
+   1. Tausch von politischer Macht gegen Realisierung bestimmter politischer Ziele (die dem Wähler nutzen) -> Wahlen als zentraler Ort des Wettbewerbs
+   2. Konkurrenz von mind. 2 Parteien; regelmäßige Wahlen, deren Ergebnisse von den Verlierern akzeptiert werden
+
+#### Grundannahmen zum politischen Agieren von Parteien in homogenen Gesellschaften
+
+- Strategien zur Kostenreduktion für die Wähler (Ideologie; Meinungsführer als Vermittler)
+- Orientierung am Medianwähler; "Kampf um die Mitte"
+
+![Unimodale Waehlerverteilung](assets/unimodale_waehlerverteilg.png)
+
+#### Grundannahmen zum politischen Agieren von Parteien in heterogenen Gesellschaften
+
+- Strategien zur Kostenreduktion für die Wähler (Ideologie; Meinungsführer als Vermittler)
+- eher Orientierung an den politischen Lagern; doch auch hier gilt häufig: Wahlen werden in der Mitte gewonnen
+
+![Bimodale Wahlerverteilung](assets/bimodale_wahlerverteilung.png)
+
+#### Grenzen der Paradigmas der rationalen Wahl
+
+Kritik 1:
+Theorie zu eng auf Nutzen und Vorteil ausgerichtet; Vernachlässigung der Rolle von Werten, Normen, Moral, persönlichen Vorlieben
+
+*Antwort der Rational-Choice-Vertreter: das sind ebenfalls Präferenzen, die Theorie stimmt also.*
+
+Kritik 2:
+Theorie zu weit gespannt; wenn man alles als unspezifische Präferenz definiert, dann erklärt die Theorie nicht die Ursachen von Handlungen, die eben sehr verschieden sein können (finanzieller Vorteil, Rollenhandeln, zweck- und wertorientiertes Handeln)
