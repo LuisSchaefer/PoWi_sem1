@@ -941,14 +941,18 @@ Theorie zu weit gespannt; wenn man alles als unspezifische Präferenz definiert,
 
 #### Merkmale von Institutionen
 
-1. relatively invariant (unveränderlich) gegenüber der Veränderung von Menschen
-2. relatively resilient (resistent) gegenüber individueller Präferenzen und Erwartungen
+1. relativ unveränderbar, Orientierungsmuster bleiben gleich, auch bei wechselnden individuellen Akteuren
+2. relativ widerstandsfähig gegenüber persönlichen Vorlieben und Erwartungen
 
-#### Demokratische Governance muss nach March/Olsen vier Funktionen erfüllen:
+- Das Amt formt den Menschen
+- Welche Funktionen müssen polit. Institutionen erfüllen?
+  - Balancierung zwischen Erwartungen, die such auf das Gemeinmwohl richten und denen, die auf Individualinteressen abzielen
+
+#### Demokratische Governance muss nach March/Olsen vier Funktionen erfüllen
 
 1. Political Identities: „Prägung eines Solidaritätsgefühls der einzelnen Bürger in Bezug auf die politische Gemeinschaft ..., welche das individuelle Streben nach Nutzenmaximierung eindämmt und das ‚private self‘ in ein ‚public self‘ moduliert.“
 2. Political Capabilities: (In der Verfassung niedergelegte) Ordnung der Kompetenzen und Ressourcen.
-3. Political Accounts: Den Pluralismus der Identitäten etc. überwölbende Narrative.
+3. Political Accounts: Identitätspluralismus etc. überwölbende Narrative.
 4. Political Adaptiveness: Kaum gesteuerter, sondern inkrementeller institutioneller Wandel.
 
 ## Institutionen im Kalkül rationaler Akteure: Vetospieler-Theorie (G. Tsebelis)
