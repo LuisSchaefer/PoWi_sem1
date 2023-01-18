@@ -908,3 +908,67 @@ Theorie zu eng auf Nutzen und Vorteil ausgerichtet; Vernachlässigung der Rolle 
 
 Kritik 2:
 Theorie zu weit gespannt; wenn man alles als unspezifische Präferenz definiert, dann erklärt die Theorie nicht die Ursachen von Handlungen, die eben sehr verschieden sein können (finanzieller Vorteil, Rollenhandeln, zweck- und wertorientiertes Handeln)
+
+## Traditioneller Institutionalismus
+
+- Polity Ebene
+- "Was ist eine gute politische Ordnung?" -> Legitimation der bestehenden Ordnung
+
+„Eine einem bestimmten Bereich zugeordnete gesellschaftliche, staatliche, kirchliche Einrichtung, die dem Wohl oder Nutzen des Einzelnen oder der Allgemeinheit dient.“
+
+- in Dtl verbreiteter als in den USA
+- Auftrieb des traditionellen Institutionalismus nach Umbrüchen des 20. Jahrhunderts bis hin zur jüngeren Transformationsforschung
+
+### Neue Ausrichtung des Institutionalismus - New Institutionalism (durch Einflüsse aus USA)
+
+- ausgelöst durch beavioralistische Wende
+- bereits durch rational choice-Modell mit homo oeconomicus
+- Interessenverlagerung: (normative) Fragen nach der politischen Ordnung treten in den Hintergrund u. werden ersetzt durch das Ziel, Verhalten von politischen Akteuren zu erklären
+
+#### Kritik an rational choice Modell
+
+1. kontextuell unspezifisch
+2. reduktionistisch (Zurückführung politischen Handelns aus ein Motiv: Nutzen)
+3. utilitaristisch (Verkürzung auf wirtschaftliche Nutzenorientierung)
+4. instrumentalistisch (Mittel zum Zweck, politisches Handeln als kein Wert an sich)
+
+#### Erklärung Individuelles Verhalten (auch kollektiver Akteuere)
+
+- nicht erklärt mt einer *logic of consequentialism* (Logik der angenommenen Folgen)
+  - nach dieser fragen Akteuere erst nach Handlungsalternativen um diese dann nach Nutzenerwägungen in eine Rangfolge zu bringen
+- sondern durch *logic of appropriateness* (Logik der Angemessenheit)
+  - also institutionelle Regeln, in die Akteure hinein-sozialisiert werden
+
+#### Merkmale von Institutionen
+
+1. relatively invariant (unveränderlich) gegenüber der Veränderung von Menschen
+2. relatively resilient (resistent) gegenüber individueller Präferenzen und Erwartungen
+
+#### Demokratische Governance muss nach March/Olsen vier Funktionen erfüllen:
+
+1. Political Identities: „Prägung eines Solidaritätsgefühls der einzelnen Bürger in Bezug auf die politische Gemeinschaft ..., welche das individuelle Streben nach Nutzenmaximierung eindämmt und das ‚private self‘ in ein ‚public self‘ moduliert.“
+2. Political Capabilities: (In der Verfassung niedergelegte) Ordnung der Kompetenzen und Ressourcen.
+3. Political Accounts: Den Pluralismus der Identitäten etc. überwölbende Narrative.
+4. Political Adaptiveness: Kaum gesteuerter, sondern inkrementeller institutioneller Wandel.
+
+## Institutionen im Kalkül rationaler Akteure: Vetospieler-Theorie (G. Tsebelis)
+
+### Untersuchungsinteresse Vetospieler-Theorie (G. Tsebelis)
+
+- nicht im engeren Sinne eine neo-institutionalistische Theorie, bewegt sich im r/c-Paradigma
+- individuelle od. kollektive Akteuere, die politische Entscheidungen zustimmen müssen - d.h. diese verhindern können - sind "Vetospieler"
+- wenn Kompetenz verfassungsrechtlich festgeschrieben: "institutioneller Vetospieler"
+
+![Untersuchungsinteresse Vetospielertheorie](assets/untersuchungsinteresse_vetospieler.png)
+
+### Untersuchungsergebnisse Vetospieler-Theorie (G. Tsebelis)
+
+- Policy-Stabilität (bzw. Inflexibilität) ist höher, je mehr Vetospieler beteiligt sind
+- Policy-Stabilität ist höher, je weiter die Idealpunkte der Vetospieler auseinanderliegen
+- Kollektive Vetospieler müssen interne Entscheidungsverfahren und Homogenität/Heterogenität der intern vertretenen Idealpunkte berücksichtigen!
+
+### Kritik/Modifikation Vetospieler-Theorie (G. Tsebelis)
+
+- Akteuere orientieren sich im Modell an ihren Idealpunkten, nicht an anderen Akteueren
+  - handeln also nicht strategisch
+- Abhängigkeit der Vetomacht von Parteien von der strategischen Konstellation
