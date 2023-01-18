@@ -1174,3 +1174,176 @@ Definition: Die Gesamtheit der in einer politischen Einheit agierenden Parteien 
 - *Fluide Phase* seit 2002:
   - Krise der Volksparteien, Mitgliederschwund, sinkende Wahlbeteiligung
   - neue Parteien/ Dynamiken: DIE LINKE (seit 2007), Piraten, AfD (seit 2013)
+
+#### Wie bilden sich Parteiensysteme heraus?
+
+1. Institutionalistischer Ansatz (Maurice Duverger) - Rolle des Wahlrechts (5 Prozent Hürde, Verhältnis- oder Mehrheitswahl)
+2. Ökonomischer Ansatz (Anthony Downs) - Parteien als Organisation zur Stimmenmaximierung auf dem Wählermarkt
+3. Soziologischer Ansatz:
+   - Annahme, dass Parteien als "Aktionsausschüsse" gesellschaftlicher Gruppen wirken. Parteisysteme bilden danach die zentralen gesellschaftlichen Konfliktstrukturen ab.
+   - Zentrale Studie: Lipset/Rokkan: Cleavage-Konzept
+   - Parteien und Parteiensysteme sind die Folgen starker sozialer Konflikte im Entwicklungsprozess moderner Gesellschaften.
+   - Grundlegende historische Konflikte finden sich in fast allen entwickelten Gesellschaften:
+     - Reformation => *Cleavage Staat - Kirche*
+     - Nationalstaatbildung => *Cleavage Zentrum - Peripherie*
+     - Industrielle Revolution => *Cleavage Kapital - Arbeit* & *Cleavage Stadt - Land*
+
+#### Lipset/Rokkan 1967: Cleavage-Konzept
+
+- diese Konflikte führen zu langfristigen Spannungslinien (Cleavages) innerhalb der Gesellschaft
+- Konfliktlinien (Cleavages) gründen sich auf fest in die Sozialstruktur verankerten inhaltlichen Positionen (issues)
+- Freezing Hypothese, d.h. es kommen keine neuen Cleavages dazu, hat sich als falsch herausgestellt
+- Spiegeln sich im Parteisystem wider
+- Cleavage-Theorie erklärt:
+  - warum neue Parteien entstehen und sich Parteien auflösen
+  - warum bestimmte gesellschaftliche Gruppen einzelne Parteien wählen
+
+#### Gibt es einen Wandel der Konfliktstrukturen? Neue Cleavages?
+
+- Wertewandel: *Materialismus - Postmaterialismus* (abstrakte Güter wie Schutz der Natur, Gesundheit, Freiheit)
+  - Grüne Parteien
+- Kultureller Konflikt: *Libertäre - autoritäre* Politik
+  - Libertär: Ökologie, Feminismus, Abrüstung, Selbstbestimmung, Dezentralisierung
+  - Autoritär: Partnalismus, wirtschaftliche Größe, Fremdenfeindlichkeit
+- Kultureller Konflikt: Kosmospolitismus und Kommunitarismus: Globalisierung, offene Grenzen, Migration
+
+### Wer wählt wie wen und warum?
+
+- *Wer darf wählen?* Aktives und passives Wahlrecht, Wahlbeteiligung
+- *Wer wählt?* Wahlbeteiligung und Nichtwählen
+- *Was bzw. wen wählen wir?*
+  - Parlamente von der kommunalen bis zur europäischen Ebene
+  - Exekutive auf der kommunalen Ebene
+- *Wen wählen wir? Theorien des Wählerverhaltens*
+  - Soziologischer Ansatz, Sozialpsychologische Ansatz, Rational-Choice-Ansatz, Modell des sozialen Milieus
+- *Wie wählen wir?* Wahlrecht/-systeme
+
+#### Wer darf wählen?
+
+- aktives Wahlrecht: Recht, an der Wahl von Parlamenten teilzunehmen
+- passives Wahlrecht: Recht, sich zur Wahl stellen zu lassen
+- Legislaturperiode: Zeitraum
+- Art und Weise der Stimmabgabe (u.a. Verhältnis- oder Mehrheitswahlrecht)
+
+#### Ausdehnung des Wahlrechts - drei Ursachen
+
+- Absenkung des Wahlalters (1970: von 25 auf 18, teilw. ab 16 in gewissen Ländern, Ampel Anstrebung auf 16)
+- Entkopplung des Wahlrechts von Besitz und weiteren Eigenschaften
+- Einführung des Wahlrechts für Frauen 1918
+
+#### Wahlprinzipien
+
+Art. 38 GG: Die Abgeordneten des Deutschen Bundestages werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt.
+
+|Prinzip|Idee|Umsetzung|
+|-------|----|---------|
+|Allgemein|Prinzip der Selbstbestimmung und Selbstregierung|Ausdehnung des aktiven u passiven Wahlrechts|
+|Gleich|Gleichheitsprinzip|Verbot Stimmengewichtung, gleicher Zählwert, ggf. untersch. Erfolgswert|
+|Direkt|Unverzerrte Willensäußerung|(formale u faktische) Entmachtung von Wahlleuteversammlungen|
+|Frei|Offenheit des Wahlergebnisses|Offener Wettbewerb, offene Teilnahme an Wahlen|
+|Geheim|Unbeobachtete, unsanktionierte freie Willensäußerung|Verdeckte und anonymisierte Stimmzettel, Wahlkabinen|
+
+#### Was bzw. wen wählen wir?
+
+![Was und wen wählen wir](assets/was_wen_waehlen.png)
+
+#### Wahlsysteme (Wie wählen wir)
+
+- Institutionelle Arrangements, die Wählerpräferenzen in Wählerstimmen und schließlich in Mandate transformieren
+- Wahlrechtsfragen sind Machtfragen
+
+Grundlegende Fragen:
+
+- Welche politische Bedeutung haben Wahlsysteme?
+- Was lässt sich wissenschaftlich zu den politischen Auswirkungen von Wahlsystemen aussagen?
+- Wie sind die belegten Auswirkungen von Wahlsystemen normativ zu bewerten?
+
+#### Wahlsysteme - wichtigste Elemente
+
+- *Selektionsregel* bei der Transformation von Stimmen in Sitzen (Mehrheits- und Verhältniswahlsysteme)
+- *Wahlkreiseinteilung* Mandate pro Wahlkreise, Zuschnitt
+- *Kandidatur* Einzelkandidatur und Listen (starre, lose gebundene und freie Listen)
+- *Stimmgebungsverfahren* Anzahl der Stimmen
+- *Stimmrechnungsverfahren* Sperrklausel, Verrechnungsverfahren
+
+#### Typen von Wahlsystemen (nach Nohlen 2002)
+
+- Mehrheitswahlsysteme z.B. Relative Mehrheitswahl in Einerwahlkreisen (USA, UK)
+- Verhältniswahlsysteme z.B. Personalisierte Verhältniswahl mit Sperrklausel (BRD, Neuseeland)
+
+#### Wahlkreiseinteilung: Gerrymandering
+
+- Wahlkreiseinteilung zentral und höchst umstritten bei Mehrheitswahlen
+- Strategien:
+  - Zersteuung
+  - Hochburgbildung
+- *Gerrymandering*
+- Governer E. Gerry formte Wahlkreise so, dass Opposition in einer Wahl nur 11 der 40 Wahlkreise trotz 51% gewann
+
+#### Listenform (nach Nohlen 2002)
+
+|Listenform|Stimmgebung|
+|----------|-----------|
+|Starre Liste|Wähler hat eine Stimme. Er wählt Liste als Ganzes (zB Bundestagswahl)|
+|Lose gebundene Liste|Wähler hat mind. 2 Stimmen oder so viele, wie Abgeordnete zu wählen sind. Wähler kann ggf. mehrere Stimmen auf einen Kandidaten abgeben (kumulieren)|
+|Freie Liste|Wähler hat mehrere Stimmen und kann "seine" Liste zsmstellen aus den Vorschlägen der Parteien (panaischieren)|
+
+Kumulieren und panaschieren: Kommunalwahlen u.B. Hessen, Bayern, Hamburg
+
+#### Wahlsystem der BRD (Bundestagswahl): Personalisiertes Verhältniswahlrecht
+
+598 Abgeordnete (+ Überhang- und Ausgleichsmandate)
+
+- *Selektionsregel*
+  - Direktwahlkreise: relative Mehrheitswahl
+  - Listen: Verhältniswahl
+- *Wahlkreiseinteilung*
+  - Einerwahlkreise u unterschiedlich große Wahlkreise der Bundesländer
+- *Stimmgebung*
+  - 2-Stimmen-System
+- *Kandidatur*
+  - Kandidaten- und geschlossene Listenwahl
+- *Besonderheiten*
+  - Legale Stimmhürde (%5 Hürde bzw. 3 Direktmandate)
+  - Überhang- und Ausgleichsmandatsregelung
+- Wahlrechtsreform 2020:
+  - ab 2021: bis zu 3 Direktmandate nicht ausgeglichen, tw. Verrechnung Überhangmandate mit Listenmandaten in anderen Bundesländern
+
+#### Wahlsystem der BRD: Sitzverteilung
+
+- Zweitstimme entscheidend für Gesamtsitzverteilung im Bundestag (Sperrklausel bzw. Grundmandatsklausel (3 Direktmandate))
+  - *Verhältniswahlrecht*
+- Bundestagssitze zuerst mit direkt gewählten Abgeordneten besetzt, Rest auf Listenkandidaten verteilt
+- In jedem Fall behält eine Partei ihre Direktmandate (ggf. Überhangmandate)
+- bei Überhangmandate muss Sitzanzahl erhöht werden, bis Größenverhältnis der Fraktionen im Bundestag dem Anteil der Zweitstimmen widerspiegelt (Ausgleichmandate)
+  
+#### Überhangmandate
+
+- wenn eine Partei mehr Direktmandate als ihr aufgrund der Zweitstimmen zustehen bekommt, erhält diese so viele Plätze wie Direktmandate
+  - das sind Überhangmandate
+- Urteil Bundesverfassungsgericht 2012
+- Da Verhältniswahl: verletzt Grundsätze der Gleichheit und Unmittelbarkeit der Wahl, sowie Chancengleichheit Parteien
+  - Urteil: Überhangmandate max. im Umfang halber Fraktionsstärke
+  - Änderung Wahlgesetz 2012: *Ausgleichsmandate*
+
+#### Wahlrechtsreform 2020
+
+- Stufe 1 zur BTW 2021 - Minireform:
+  - bis zu 3 Überhangmandate nicht kompensiert werrden
+  - Überhangmandate teilweise mit Listenmandaten verrechnet werden
+- Stufe 2 zur BTW 2025 - Reform:
+  - Zahl Wahlkriese von 299 auf 280 reduziert (ab 01.01.2024)
+  - Reformkommission bis 30.06.2023 ein Ergebnis vorlegen
+  
+*ABER* Nach der Reform ist vor der Reform
+
+- Verfassungsklage gegen neues Wahlrecht
+- 16.03.2022: Kommission zur Reform eingesetzt
+
+#### Bewertung personalisierte Verhältniswahl
+
+- große Mehrheit der Experten in PoWi und Staatsrechtslehre findet deutsches Wahlsystem gut/ hat sich bewährt
+- Ausländische Experten loben das System dafür, dass polit. Minderheiten respektiert und doch übermäßige Zersplitterung des Parteiensystems verhindert
+- in Kritik: starre Listen, relativ großer Einfluss kleiner Parteien als Koalitionspartner
+- Diskussion: Verhältniswahlrecht idR Koalitionen, d.h. höhere Zahl an sog. Vetospieler als in Ländern mit Mehrheitswahlsystem
+- Debatte über Reform des Wahlrechts
