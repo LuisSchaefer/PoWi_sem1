@@ -662,7 +662,7 @@ Ein politisches System, das mindestens zwei territoriale Ebenen aufweist, auf de
 - *A-Länder*: SPD führt jeweilige Landesregierung
 - *B-Länder*: CDU/CSU führt die jeweilige Landesregierung
 - *C-Länder*: neutrale Länder
-- *G-Länder* ToDo
+- *G-Länder* ggf. wenn Grüne stärker werden
 
 #### ROM-Modell (nach Lehmbruch)
 
@@ -854,8 +854,8 @@ der Exekutive der Länder => staatsrechtlich: keine Ebene
 
 - Parlamente (+ Ausschüsse)
 - Regierung, Staatsoberhaupt
-- (Bevölkerung)
-- (Zivilgesellschaft, Interessengruppen)
+- (Bevölkerung) größtenteils Teil der Initiative
+- (Zivilgesellschaft, Interessengruppen) größtenteils Teil der Initiative
   
 ### Gesetzesinitiative
 
@@ -863,6 +863,7 @@ der Exekutive der Länder => staatsrechtlich: keine Ebene
 
 - regelt Art. 76 (1) GG Formales Initiativrecht
   - Bundesregierung (über 74% Gesetzesinitiativen)
+    - meisten Gesetzeseinbringungen, da die meisten Ressourcen (Personal) in Ministerien
   - Bundesrat (ca 15%)
   - Bundestag (Fraktion oder 5% der Abgeordneten) (ca. 11%)
 
@@ -923,6 +924,7 @@ Erster Durchgang im Bundesrat
   - Gesetze mit Auswirkungen in die Organisations- und Verwaltungshoheit der Länder
 
 - Zustimmungspflichtigkeit nicht selten umstritten (außer 1. Fall)
+- bei Ablehnung des Bundesrates wird versucht eine Einigung zu erzielen (Vermittlungsausschuss) oder im Extremfall wird das Bundesverfassungsgericht dazu gezogen
 
 #### Einspruchsgesetze
 
@@ -937,6 +939,7 @@ Erster Durchgang im Bundesrat
 - nach Art. 77, Abs. 2 GG: Zusammensetzung und Verfahren des Ausschusses regelt Geschäftsordnung Bundestag mit Zustimmung des Bundesrates, entsandte Mitglieder des Bundesrates sind nicht an Weisungen gebunden
 
 - Möglichkeit zur Abänderung einer Gesetzesvorlage durch Anrufung des Vermittlungsausschusses
+- seit 2013 seltener ausgerufen, da Verhandlungen häufiger vor der Einberufung des Ausschusses stattfinden
 
 #### Zusammensetzung des Vermittlungsausschusses
 
@@ -983,7 +986,7 @@ Bürokratiekosten
   - Ausschüsse wichtige Funktion
   - aufgrund des verflochtenen Föderalismus komplexe Gesetzgebungskompetenzen und Gesetzgebungsverfahren
 
-- ToDo Überschriften anpassen, handschriftliche Mitschriften VL6 hinzufügen, Grafiken noch einmal ansehen, Praxisbeispiele nötig?
+- ToDo Praxisbeispiele nötig?
 
 ### Parteien und Parteiensysteme
 
@@ -1171,7 +1174,3 @@ Definition: Die Gesamtheit der in einer politischen Einheit agierenden Parteien 
 - *Fluide Phase* seit 2002:
   - Krise der Volksparteien, Mitgliederschwund, sinkende Wahlbeteiligung
   - neue Parteien/ Dynamiken: DIE LINKE (seit 2007), Piraten, AfD (seit 2013)
-
-#### Entwicklung Parteiensystem ezogen auf Format, Fragmentierung, Asymmetrie, Volatilität, Polarisierung und Segmentierung
-
-- ToDo
