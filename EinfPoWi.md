@@ -972,3 +972,106 @@ Theorie zu weit gespannt; wenn man alles als unspezifische Präferenz definiert,
 - Akteuere orientieren sich im Modell an ihren Idealpunkten, nicht an anderen Akteueren
   - handeln also nicht strategisch
 - Abhängigkeit der Vetomacht von Parteien von der strategischen Konstellation
+
+## Was ist ein (soziales) System?
+
+Eine Menge von Elementen, zwischen denen eine stabile Beziehung besteht und die eine Einheit bilden
+
+System als allgegenwärtige Erscheinung: Soziale Systeme (zB Politik), Umwelt und Natur (zB Golfstrom)
+
+Soziale Systeme: Merkmale
+
+- Mensch/Handlung als Element
+- Struktur
+- Ordnung und Stabilität
+- System und Umwelt
+
+### System und Umwelt
+
+- Input
+- Transformation
+- Veränderung der Systemfunktionen
+- Output
+- Reaktion der Umwelt
+- Feedback
+  
+## Was ist ein politisches System? - System und Umwelt
+
+- Input
+- Transformation
+- Veränderung der Systemfunktionen
+- Output
+- Reaktion der Umwelt
+- Feedback
+
+![Politisches System](assets/polit_System.png)
+
+### Politische Systeme - eine Annäherung von W. Patzelt
+
+„Somit bestehen ‚politische Strukturen‘ bzw. ‚politische Strukturgefüge‘ aus den *routinemäßig aufeinander abgestimmten Sinndeutungen und Handlungen* jener Personen, die am Prozess der *Herstellung allgemeiner Verbindlichkeit* fördernd oder hemmend beteiligt sind. Die Gesamtheit aller politischen Strukturen wird ‚politisches System‘ genannt, in dem wiederum vielerlei politische Subsysteme zu unterscheiden sind: Regierungen, Parlament, Fraktionen, Parteien, Verbände, Bürgerinitiativen, Verwaltungen, Gerichte und dergleichen mehr.“
+
+- Herstellung allgemeienr Verbindlichkeit: Spezifikum politischer System im Output
+- routinemäßig aufeinander abgestimmten Sinndeutungen und Handlungen: determiniert/ herbeigeführt durch die Regeln eines Systems
+
+### Klassiker politikwissenschaftlicher Systemtheorie - David Easton
+
+- ein Hauptwerk: The Political System: An Inquiry into the State of Political Science
+
+Definition politisches System nach David Easton:
+
+Ein System aus Interaktionen, das durch die Tatsache definiert ist, dass sie mehr oder weniger direkt in Verbindung mit den autoritativen Zuweisungen von Werten stehen.
+
+Eine Reihe von Interaktionen, abstrahiert von der Gesamtheit des sozialen Verhaltens, durch das die Werte für eine Gesellschaft verbindlich festgelegt werden.
+
+### Allg. Bestandteile Input-Output Theorie des pol. Systems - David Easton
+
+1. Umwelt
+2. Ziel
+3. Prozess:
+   - Wünsche in Forderungen
+   - Forderungen in Entscheidungen (durch Gatekeepers)
+   - Unterstützung
+
+- nach Output folgt Feedback-Schleife auf die Umwelten
+
+#### Umwelt: Input-Output Theorie des pol. Systems - David Easton
+
+Dazu gehören alle Handlungen und Bedingungen, die nicht zum politischen System gehören (exogen)
+
+- intra-gesellschaftlicher Umwelt: ökologisches, soziales, biologisches, ... System
+- außergesellschaftliche Umwelt: internationale politische, soziale, ökologische Systeme
+
+![Theorie Easton Umwelt](assets/easton_umwelt.png)
+
+#### Ziel: Input-Output Theorie des pol. Systems - David Easton
+
+- Ziel: Die Umwandlung (conversion) von Inputs in Outputs
+
+![Theorie Easton Ziel](assets/easton_ziel.png)
+
+#### Prozess, Wünsche in Forderungen: Input-Output Theorie des pol. Systems - David Easton
+
+- Strukturelle Mechanismen: Gatekeepers (zentral vs. dezentral)
+  - zentral: Aufnahmefähigkeit von Wünschen sinkt, aber Wahrscheinlichkeit für Weiterleitung an Entscheidungsträger (Output) ist groß
+  - dezentral: Aufnahmefähigkeit von Wünschen groß, aber ob es zu einer politischen Entscheidung kommt ist fraglich (Wahrscheinlichkeit geringer)
+- Kulturelle Mechanismen (Werte, Normen und Einstellungen etc.)
+
+![Theorie Easton Wunsch](assets/easton_prozess_wunsch.png)
+
+#### Prozess, Forderungen in Entscheidungen: Input-Output Theorie des pol. Systems - David Easton
+
+- durch Gatekeepers
+- Verstärkung oder Abschwächung
+- Reduktion (Zusammenfassung, thematische Verdichtung d.h. Konkretisierung)
+
+![Theorie Easton Entscheidungen](assets/easton_prozess_entscheidungen.png)
+
+#### Prozess, Unterstützung: Input-Output Theorie des pol. Systems - David Easton
+
+- zentral, ob und wie Unterstützung gewährt wird, für den Erfolg einer Forderung
+- entscheidend für den Fortbestand des gesamten politischen Systems
+- 2 Arten:
+  - spezifische Unterstützung: anlassbezogen, ausgerichtet auf diese konkrete Forderung (Befriedigung durch konkrete Outputs)
+  - diffuse Unterstützung: nicht anlassbezogen, grundsätzliche Unterstützung von Weltanschauung/politischer Richtung/politischen Systems insgesamt (*Legitimitätsglaube*: ideologisch, strukturell, persönlich; *Vertrauen* für politisches System insgesamt)
+
+![Theorie Easton Unterstuetzung](assets/easton_prozess_unterstuetzung.png)
