@@ -1057,6 +1057,7 @@ Bürokratiekosten
 - *Zentral*  Linkage-Funktion von Parteien zwischen Bürgern und Staat bzw. politischem System
 
 |Repräsentative Funktionen|Governmentale Funktionen|
+|-------------------------|------------------------|
 |Interessenvertretung: Interessenartikulation und -aggregation|Mobilisierung: Mobilisierung für Wahlen, Mitgliedschaft und Parteiarbeit, Politische Sozialisation von Mitgliedern und Personal|
 |Zielfindung: Formulierung von Entscheidungsalternativen, Themensetzung (Agenda-Setting), Repräsentation von Interessen und Werthaltungen|Rekrutierung: für politische Mandate und Ämter|
 | |Regierungsbildung/Oppositionsarbeit|
