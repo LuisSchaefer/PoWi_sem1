@@ -1357,11 +1357,11 @@ Kumulieren und panaschieren: Kommunalwahlen u.B. Hessen, Bayern, Hamburg
 
 #### Bedeutung und Anforderungen an Interessengruppen – 5 Grundprinzipien (nach Schiller)
 
-(1) Grundlegende Bürger- und Freiheitsrechte: Vereinigungsfreiheit
-(2) Offenheit der Machtstruktur
-(3) Politische Gleichheit
-(4) Transparenz und Rationalität
-(5) Politische Effektivität sowie Handlungs- und Steuerungsfähigkeit
+1. Grundlegende Bürger- und Freiheitsrechte: Vereinigungsfreiheit
+2. Offenheit der Machtstruktur
+3. Politische Gleichheit
+4. Transparenz und Rationalität
+5. Politische Effektivität sowie Handlungs- und Steuerungsfähigkeit
 
 #### Drei Spannungsdimensionen
 
