@@ -1348,3 +1348,195 @@ Kumulieren und panaschieren: Kommunalwahlen u.B. Hessen, Bayern, Hamburg
 - in Kritik: starre Listen, relativ großer Einfluss kleiner Parteien als Koalitionspartner
 - Diskussion: Verhältniswahlrecht idR Koalitionen, d.h. höhere Zahl an sog. Vetospieler als in Ländern mit Mehrheitswahlsystem
 - Debatte über Reform des Wahlrechts
+
+## Verbände und Lobbying
+
+- s. Karteikarten
+
+### Das Spannungsverhältnis: Interessengruppen – Demokratie
+
+#### Bedeutung und Anforderungen an Interessengruppen – 5 Grundprinzipien (nach Schiller)
+
+(1) Grundlegende Bürger- und Freiheitsrechte: Vereinigungsfreiheit
+(2) Offenheit der Machtstruktur
+(3) Politische Gleichheit
+(4) Transparenz und Rationalität
+(5) Politische Effektivität sowie Handlungs- und Steuerungsfähigkeit
+
+#### Drei Spannungsdimensionen
+
+1. Organisationsfreiheit GEGENÜBER politischer Gleichheit
+2. Offenheit der Machtstruktur und politische Gleichheit GEGENÜBER politischen Handlungs- und Steuerungsfähigkeit
+3. Transparenz GEGENÜBER Forderung nach ungehindertem Machtzugang und politischer Effektivität
+
+## Womit beschäftigt sich die Policy-Analyse?
+
+### Definition: Policy/Politikfeld
+
+- lässt sich von anderen Politikfeldern formal abgrenzen lässt (Gesundheitspolitik, Sozialpolitik, Wirtschaftspolitik, Integrationspolitik).
+- verfügt über einen eigenen Inhalt, der sich in Gesetzen, Entscheidungen und oftmals einer spezifischen Steuerung ausdrückt.
+- dabei sind einzelne Politikfelder nicht unabhängig von anderen Politikfeldern, besitzen aber einen eigenen Kern
+
+### Zentrale Fragestellung
+
+Wann, wie, warum, mit welchen Mitteln und mit welchem Effekt treffen Individual- oder Kollektivakteure verbindliche Entscheidungen über die Verteilung begehrter Güter und Werte?“ (Schmidt 2006: 261)
+
+### Welche Typen von Policies gibt es?
+
+![typen policies](assets/typen_policies.png)
+
+### Politische Steuerung
+
+#### Zentrale Instrumente der Staatstätigkeit
+
+- Recht: Gesetze und Verordnungen
+- Planung: Pläne, Zielvereinbarungen
+- Markt: Steuern, Abgaben
+- Kommunikation: Information, Argumentation
+- Normappelle: Gerechtigkeit, Solidarität
+- Kooperation: Absprachen, Aufgabenteilung
+
+![polit steuerung](assets/polit_strg.png)
+
+#### Welche Wirkungen haben die Instrumente der politischen Steuerung?
+
+- *Policy-Output:* Ergebnisse der formalen Entscheidungsprozesse (Verfahren, Verordnungen und Gesetze), also die konkreten politischen Maßnahmen (Leistung/Intervention)
+- *Policy-Outcome:* Reaktion des Systems/Auswirkungen des Outputs auf die Lösung des Problems
+- *Policy-Impact:* Reaktion der Adressaten/Einwirkung auf die Adressatengruppe (z.B. Verhaltensänderung, Anpassungsstrategie)
+
+Resultat *Intendierte und nicht-intendierte Wirkungen*
+
+z.B.
+
+- Output = Umweltverordnung
+- Outcome = Reduktion von Feinstaub
+- Impact = Wirkung auf eine spezifische Adressatengruppe (Fahrverhalten)
+
+### Theoretische Ansätze: Welche Faktoren wirken auf Inhalte der Politik und Politikergebnisse ein?
+
+#### Sozio-ökonomische Ansätze
+
+- Vertreter: Karl Marx, Harold Wilensky
+- Ökonomische, soziale und politische Modernisierungsprozesse (v.a. Anteil der Beschäftigung im industriellen/Dienstleistungssektor; Alterung der Bevölkerung) schufen neue Probleme und Bedarf für größere Staatstätigkeit
+- Ausmaß und Niveau der Industrialisierung/der wirtschaftlichen Entwicklung für die Staatstätigkeit entscheidend – z.B. Vergleich von Industrie- und Entwicklungsländer v.a. in langfristiger, globaler Perspektive
+
+Probleme:
+
+- weniger geeignet für den Detailvergleich zwischen einzelnen Industrieländern (Was erklärt Unterschiede zwischen GB und Schweden?)
+- Einfache Kausalbeziehung ist zu undifferenziert
+
+#### Machtressourcen-Ansatz
+
+- Inhalte der Politik werden durch die Machtverteilung und Aushandlung wichtiger gesellschaftlicher Gruppen entschieden - Staatshandeln v.a. von der Konstellation gesellschaftlicher Kräfteverhältnisse (Bedeutung von Klassen und Verbänden, Koalitionsmöglichkeiten) geprägt
+- *Liberale Variante:* ‚rent-seeking‘ – kollektive Akteure versuchen Staatshandeln zu ihren Gunsten zu instrumentalisieren
+- *Marxistische Variante:* Klassenstrukturen und gesellschaftliche Machtverhältnisse, v.a. Stärke von Gewerkschaften und Verbänden (vgl. Esping-Andersen 1990) => z.B. Unterschiede Wohlfahrtsstaat GB und Schweden
+  
+Probleme:
+
+- Überschätzung der staatliche Gestaltungsmöglichkeiten / Unterschätzung von institutionellen Zwängen
+- Unklare/schwankende Kräfteverhältnisse
+- Politikfelder ohne klare Klassen- / Verbandsstrukturen (Bildungspolitik, Außenpolitik)
+
+#### Parteiendifferenztheorie
+
+- „Parties do matter“: Unterschied zwischen linken, rechten und Mitte-Parteien (z.B. Arbeitslosigkeit vs. Geldwertstabilität)
+- v.a. relevant bei langfristiger Prägung, in Mehrheitsdemokratien
+  
+Probleme:
+
+- Überschätzung der staatliche Gestaltungsmöglichkeiten/ Unterschätzung von institutionellen bzw. Koalitionszwängen
+- Programmatische Angleichung zwischen Parteien, dennoch noch signifikante Unterschiede erkennbar
+- Parteien jenseits der klassischen rechts-links-cleavage (z.B. postmaterielle, ethnische)
+- Policies jenseits der Cleavages (z.B. Außenpolitik)
+
+#### Politisch-institutionalistische Ansätze
+
+Zwei Varianten:
+
+- Historische Formung („Politikerbe“) – Besonderheiten nationaler politischer Systeme (nicht so relevant)
+- Binnenkomplexität des Staats: Schranken durch Verfassung, Ressourcensituation, Wahlsysteme/
+Koalitionszwänge etc. *Veto-Spieler-Ansatz (Tsebelis)*
+
+Probleme:
+
+- Unterschätzung von
+  - Sozio-ökonomischen Entwicklungen
+  - Parteien
+  - Gesellschaftlichen Kräfteverhältnissen
+  - Internationalen Einflüssen
+  
+#### Internationale Hypothese
+
+- Politikinhalte heute stark von internationalen und transnationalen Konstellationen beeinflusst
+- Globalisierung (Handel, Produktion, Kapitalmärkte, Migration)
+- Europäische Integration (‚80%-Mythos‘)
+  
+Problem/Grenzen:
+
+- sehr unterschiedliche Reaktion einzelner Länder
+- Verallgemeinerungsfähigkeit
+- Vernachlässigung des nationalen Kontexts
+
+### Vetospieler-Ansatz (Tsebelis)
+
+*Zentrale Frage* Wie wird die Policy-Stabilität beeinflusst bzw. welche Akteure bei Entscheidungen müssen zustimmen, damit der Status Quo einer Policy verändert werden kann?
+
+*Vetospieler* sind diejenigen individuellen und kollektiven Akteure, deren Zustimmung Bedingung für einen Politikwechsel ist.
+
+- Vereinheitlichung ganz unterschiedliche Phänomene (z.B. Präsidentialismus vs. Parlamentarismus, Einparteien- vs. Mehrparteiensysteme
+
+#### Drei Arten von Vetospielern
+
+- *Institutionelle Vetospieler:* Akteure, die im Bereich der Gesetzgebung formal institutionalisierte, d.h. konstitutionell gesicherte Vetorechte besitzen (z.B. zweite Parlamentskammern, Verfassungsgerichte, Staatsoberhäupter).
+- *Parteipolitische Vetospieler:* Politischen Parteien und parteiähnlichen Gruppierungen (z.B. Parteien der Regierungskoalition).
+- *Sonstige Spieler:* u.a. Gesellschaftliche Machtgruppen, Verbände, Zentralbanken, Militär, Mafia
+
+#### Handeln der Vetospieler
+
+Rationalistisches Wissenschaftsverständnis: Politische Akteure wollen ihren eigenen Nutzen maximieren
+Sie handeln entsprechend ihren Policy-Präferenzen, sind vollständig informiert
+Räumliches Modell
+
+#### Vetospielerkonstellation mit drei Vetospielern
+
+![winset](assets/winset.png)
+
+*Winset:* Vetospieler werden nur solchen Veränderungen zustimmen,die gewinnbringend sind.
+Das Winset ist der Bereich, in dem die drei Vetospieler gemeinsame akzeptable Überzeugungen finden können.
+
+#### Hypothesen zum Vetospieler-Ansatz
+
+1) Je *höher die Anzahl der Vetospieler* ist, desto kleiner ist – ceteris paribus – das winset für den
+Politikwechsel und desto geringer ist die Wahrscheinlichkeit, dass sich der Status quo ändern wird.
+ *Absorptionsregel (???)*
+
+(2) Je *geringer die Übereinstimmung* (Kongruenz) der Positionen zwischen den Vetospielern zu den in Frage
+kommenden Themen (policies, issues) ist, umso kleiner ist – wiederum ceteris paribus – das winset der Status
+Quo-Veränderer. Um so unwahrscheinlicher ist es also, dass eine Reformpolitik möglich ist.
+ *Agenda-Setzer (???)*
+
+(3) Je *größer die interne Kohäsion der kollektiven Vetospieler* ist, desto besser können sie ihr potenzielles
+Veto gegen die Veränderung des Status quo umsetzen, umso geringer ist die Wahrscheinlichkeit, dass ein
+reformbereiter Agenda-Setter seine Reformpläne durchsetzen kann
+
+#### Vetospieler in Dtl
+
+- Institutionelle Vetospieler:
+  - Bundesregierung
+  - Bundestag
+  - Bundesrat
+  - Bundesverfassungsgericht
+- Parteipolitische Vetospieler:
+  - Koalitionsparteien (SPD, Bündnis 90/Die Grünen, FDP)
+- Sonstige Vetospieler
+  - (Europäische Zentralbank; Europäischer Gerichtshof)
+
+#### Kritik am Vetospieleransatz
+
+- Akteure handeln nicht immer rational
+- Akteure streben meist nicht nach Sachlösungen (policy seeking), sondern nach Machterwerb oder Machterhalt (vote seeking; office seeking)
+- Übersieht Tauschprozesse in Koalitionen (Mütterrente – Mindestlohn – PKW-Maut)
+- Übersieht Strategien des Umgehens oder ‚Bestechens‘
+- Integriert nur Vetospieler mit einem formellen Abstimmungsrecht (=> André Kaiser: Vetopunkte-Ansatz: Integration von Akteuren mit Quasi-Vetoposition (z.B. Gremien der korporatistischen Interessenvertretung)
+
+*ABER:* Der Ansatz macht auf Gestaltungs- und Blockademöglichkeiten der Politik aufmerksam
