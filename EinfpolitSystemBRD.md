@@ -1638,3 +1638,70 @@ reformbereiter Agenda-Setter seine Reformpläne durchsetzen kann
 - Integriert nur Vetospieler mit einem formellen Abstimmungsrecht (=> André Kaiser: Vetopunkte-Ansatz: Integration von Akteuren mit Quasi-Vetoposition (z.B. Gremien der korporatistischen Interessenvertretung)
 
 *ABER:* Der Ansatz macht auf Gestaltungs- und Blockademöglichkeiten der Politik aufmerksam
+
+## Wie können Politikfelder gesteuert und Politikergebnisse kontrolliert werden?
+
+### Policy-Zyklus-Modell (Adrienne Heretier)
+
+- Ablaufmodell von Policy-Prozessen
+![policy_zyklus](assets/policy_zyklus.png)
+
+#### Policy-Zyklus-Modell Grenzen des Modells
+
+- Reale Phasen folgen nicht notwendig sequentieller Logik
+- Immer noch Annahme zentraler, rationaler Steuerung: Vernachlässigung von Verhandlungsprozessen innerhalb Bürokratie und mit gesellschaftlichen Akteuren
+- Zu hoher Gestaltungs-/Gemeinwohlanspruch für Staat: Staatsversagen, Unregierbarkeit
+
+### Netzwerk-Ansatz
+
+- Policy Netzwerk als „zwischen Markt und Hierarchie/Staat angesiedelte Organisationsformen, bestehen aus gesellschaftlichen und staatlichen Akteuren, die über informale und formale Austauschkanäle miteinander verbunden sind“
+- Zusammenarbeit in Bezug auf gemeinsam definiertes Problem
+- Jedes Mitglied bringt bestimmte Ressourcen ein
+
+#### Grenzen des Netzwerk-Ansatzes:
+
+- Ungleiche Ressourcenverteilung
+- Anhaltender staatlicher Steuerungsanspruch
+- Verflechtung zwischen Politikbereichen
+- Transnationale Verflechtung
+- Abschottung gegenüber Allgemeininteressen
+- Fehlende Legitimität
+
+### Governance-Konzept
+
+- integriert alle nebeneinander bestehenden Formen der kollektiven Regelung von Politik unter Einbezug staatlicher und nichtstaatlicher Akteure
+- weitere Radikalisierung der Politiknetzwerk-Perspektive
+  - Schrumpfender Handlungsspielraum des Nationalstaats
+  - Zunehmende Bedeutung der EU
+  - Einbindung in internationale Institutionen
+  - Transnationale Diffusionsprozesse
+  - Private Selbstregulierung
+  - Staatliche Akteure statt „der Staat“
+- *Aufgabe der Trennung zwischen Steuerungssubjekt (Staat) und Steuerungsobjekt (Gesellschaft)
+
+#### Grenzen des Governance-Ansatzes
+
+- „Problemlösungsbias“/„Machtblindheit“ (Mayntz): Geht es in der Politik um Problemlösung oder um Macht?
+- Ist der nationale Rahmen wirklich (weitgehend) irrelevant?
+
+## Beispiel: Politikfeld Sozialpolitik
+
+- im Grundgesetz verankert Art. 20 GG
+- Soziale Rechte sind ein Element des Bürgerrechts in der Demokratie (Marshall)
+- *Wohlfahrtsstaat*: politisches/ soziales Recht der Bürger an den Staat, d.h. Anspruch auf gewisse soziale Leistungen
+
+- Kritik: es müsste auch geschaut werden WOFÜR soziale Ausgaben genutzt werden, nicht nur die Höhe
+
+### Typologie der Wohlfahrtsstaaten nach Gosta Esping-Andersen
+
+- *Ziel der Studie:* Beschreibung des Systems sozialer Sicherung, deren Entstehung, innere Logik und Dynamik
+- *Annahme:* in unterschiedlichen politischen Traditionen gibt es unterschiedliche Einstellungen zu Wohlfahrtsstaat (= Institutionalisierte Form der sozialen Sicherung):
+- *Liberale, konservative und sozialdemokratische Wohlfahrtstaatsregime*
+
+![typologie_wohlfahrtsstaaten](assets/typologie_wohlfahrtsstaaten.png)
+
+#### Dimensionen der Wohlfahrtsstaatlichkeit
+
+- *De-Kommodifizierung:* Existenz sozialer Rechte, die es Menschen ermöglichen, ihren Lebensunterhalt in Unabhängigkeit vom Markt aufrecht zu erhalten: bezieht sich auf die zentralen staatlichen Sicherungssysteme für die Risiken Alter, Krankheit und Erwerbslosigkeit (Operationalisierung: Kriterien, die Personen für Inanspruchnahme erfüllen müssen, Höhe der Leistung)
+- *Stratifizierung:* Auswirkungen staatlicher Wohlfahrtssicherung auf die gesellschaftliche Schichtung: Verhältnis zwischen Staatsbürgerrechten und sozialen Klassen (Operationalisierung: Förderung private Vorsorge, Anteil der Bevölkerung zw. 16 und 65 Jahren, der von den staatlichen Renten- und Krankenversicherungen abgedeckt wird,
+Ausgaben für Beamtenpensionen)
