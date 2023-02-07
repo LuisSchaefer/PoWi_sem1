@@ -555,6 +555,104 @@ Informale politische Einflussnahme
    - Je mehr ein Bundespräsident politisch interveniert, desto weniger wird es ihm gelingen, politisch zu integrieren
      - Zu häufiger Kompetenzübergriff: Verlust moralischer Autorität
 
+## Das Bundesverfassungsgericht
+
+### Stellung
+
+- Verfassungsorgan (mit besonderen Rechten) und Oberstes Gericht (in Verfassungsfragen)
+- Teil der Judikative
+- Institution mit hoher Autonomie
+- Ausdruck der Gewaltenteilung: Kontrolle der Politik durch eine eigene Verfassungsgerichtsbarkeit
+- Demokratische Legitimation
+
+### Organisation
+
+Zwei Senate (="Zwillingsgericcht) mit je acht Mitgliedern
+
+1. Senat "Grundrechtssenat"
+   - Zuständig für Normenkontrollverfahren und Verfassungsbeschwerdeverfahren (Art. 1-17 GG)
+2. Senat "Staatsrechtssenat"
+   - Zuständig für Normenkontrolle und Verfassungsbeschwerdeverfahren in den Bereichen: Asyl- und Ausländerrecht, Öffentlicher Dienst, Organstreitigkeiten, Bund-Länder- Streitigkeiten, Parteiverbote, Wahlrechtsbeschwerden
+
+- Bei Unklarheiten welcher Senat zuständig ist, entscheidet ein Ausschuss aus sechs Personen: Präsident, Vizepräsident und vier Richter (je zwei aus jedem Senat)
+
+Rechtssprechung
+
+- Mindestens sechs Richter*innen eines Senats müssen anwesend sein
+- Mehrheitsentscheid => fünf Richter*innen sind nötig, damit eine Klage erfolgreich ist
+- Möglichkeit des Sondervotums (abweichende Meinung) durch unterlegene Richter*innen (seit 1971 veröffentlicht)
+
+### Wahl der Richter*innen
+
+- Einmalige Wahl auf 12 Jahre, keine Wiederwahl möglich => soll Unabhängigkeit stärken
+- juristische Professionalität durch berufliche Qualifikation abgesichert: Befähigung zum Richteramt
+- Mindestalter: 40 Jahre, scheidet mit 68 Jahren aus dem Amt aus
+- Inkompatibilität mit hohem politischen Amt (nach Art. 94 GG): Kein Regierungs- oder
+Parlamentsmitglied auf Bundes- oder Landesebene
+- Wahl der Richter durch demokratisch legitimierte Organe (Art. 94 GG) - durch das 2/3- Erfordernis in Bundestag und Bundesrat breiter Konsens über Kandidat*innen erforderlich
+  - Informelle Regelung: große Parteien schlagen abwechselnd „ihre“ Kandidat*innen vor
+  - 2001 erstmals Kandidat durch Grüne nominiert; 2016 vereinbarten die Ministerpräsident*innen von Union, SPD und Grünen, dass nun jede fünfte Richterposition im Bundesrat von den Grünen besetzt wird
+
+### Zuständigkeiten des BVerfG
+
+- Wird nur auf Antrag aktiv
+- *Verfassungsbeschwerde:* Beschwerden, wenn Grundrechte verletzt werden und alle Rechtswege erschöpft sind
+- *Normenkontrolle:* Übereinstimmung von Bundes- und Ländergesetzen mit dem
+Grundgesetz?
+  - *Abstrakte Normenkontrolle:* Umfassende, vom konkreten Einzelfall abstrahierende Prüfung
+  - *Konkrete (direkte) Normenkontrolle:* Prüfung, ob eine bestimmte Norm im konkreten sachlichen Einzelfall mit der Verfassung vereinbar ist
+- *Verfassungsstreitigkeiten:* Streitigkeiten zwischen Bundesorganen oder zwischen Bund und Ländern
+  - Organstreitigkeiten
+  - Bund-Länder-Streit
+- *Weitere Verfahren*, z.B. Verbot von Parteien wegen Verfassungswidrigkeit (siehe NPD-
+Parteiverbotsverfahren)
+
+#### Verfassungsbeschwerde
+
+- Häufigste Verfahrensart
+- Verfahren ist kostenfrei
+- Ermöglicht insbesondere den Bürger*innen, ihre grundrechtlich garantierten Freiheiten gegenüber dem Staat durchzusetzen.
+- Es handelt sich nicht um eine Erweiterung des fachgerichtlichen Instanzenzuges, sondern um einen außerordentlichen Rechtsbehelf, in dem nur die Verletzung spezifischen Verfassungsrechts geprüft wird
+
+z.B. Streikverbot für Beamte, Drittes Geschlecht im Geburten-/Personenstandsregister, Grundrechtseingriffe im Kontext der Corona-Pandemie
+
+#### Normenkontrolle
+
+Überprüfung von Rechtsnormen daraufhin, ob sie mit höherrangigem Recht vereinbar sind
+
+1. Abstrakte Normenkontrolle
+   - Auf Antrag der Bundesregierung, einer Landesregierung oder 1/3 der Mitglieder des Bundestags
+   - bei Meinungsverschiedenheiten oder Zweifel über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem GG oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrecht Art. 93 (1) GG
+2. Konkrete Normenkontrolle
+   - Anrufung des BVerfG durch ein beliebiges Gericht
+   - Prüfung, ob eine bestimmte Norm im konkreten sachlichen Einzelfall mit der Verfassung vereinbar ist
+   - In einem laufenden Verfahren kommt ein Gericht zu der Meinung, dass ein Gesetz nicht mit dem GG übereinstimmt, und ruft das BVG an, welches dann eine konkrete Prüfung des Gesetzes vornimmt
+
+#### Organstreitigkeiten
+
+- Grundlage im Gewaltenteilungsprinzip und im Minderheitenschutz
+- Antragssteller und Antragsgegner müssen parteifähig sein: oberste Bundesorgane
+(Bundespräsident, der Bundestag, Bundesrat und die Bundesregierung), aber auch Teile dieser
+Organe
+- Zulässig sind nur Entscheidungen über Streitfälle, welche die gegenseitigen Rechte und Pflichten, die aus dem Grundgesetz herleitbar sind, betreffen
+
+### Die Macht des Bundesverfassungsgerichts
+
+- *Verfassungsinterpret:* Auslegung und Anwendung von Gesetzen: Kerngedanken des
+Grundgesetzen wurden durch das Bundesverfassungsgericht weiterentwickelt und auf
+gegenwärtige Anforderungen appliziert => *Hüter und Wächter der Verfassung*
+- *Streitschlichter und Schiedsrichter* im politischen Machtkampf: Vorrangstellung
+gegenüber den politischen Institutionen
+- Ist aber auch zu einem *politischen Akteur* geworden => Gestalter ganzer
+Politikbereiche => Institutionelle Konkurrenz von Verfassungsgerichtsbarkeit und den
+politischen Institutionen von Gesetzgebung und Exekutive um die Deutung der
+Verfassung => *Macht des BVerfG zeigt sich darin, dass sich Institutionen ihrer
+Deutung faktisch fügen*
+- „Drohung mit Karlsruhe“: Gesetzesvorlagen werden vorab geprüft
+
+*Grenzen:* kann nur auf Klage hin aktiv werden; Ausschließliche Prüfung der
+Verfassungsmäßigkeit, nicht der Zweckmäßigkeit einer Regelung
+
 ## Das politische Mehrebenensystem: Länder und Kommunen
 
 - *Mehrebenensystem*
