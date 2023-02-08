@@ -1079,3 +1079,109 @@ Dazu gehören alle Handlungen und Bedingungen, die nicht zum politischen System 
   - diffuse Unterstützung: nicht anlassbezogen, grundsätzliche Unterstützung von Weltanschauung/politischer Richtung/politischen Systems insgesamt (*Legitimitätsglaube*: ideologisch, strukturell, persönlich; *Vertrauen* für politisches System insgesamt)
 
 ![Theorie Easton Unterstuetzung](assets/easton_prozess_unterstuetzung.png)
+
+## Gabriel Almond und die Frage nach der Stabilität von Demokratien
+
+### Fragestellung
+
+- Beobachtung der Deokolonialisierung & neuen Staaten Bildung
+- Funktionieren von Demokratie ist an kulturelle Voraussetzungen gebunden
+- Grundproblem des Übergangs traditioneller in moderne Gesellschaften
+- "Was ist eigentlich politische Kultur" -> Bündeln von Orientierungen von Einstellungen gegenüber dem politischen System/Objekten und Prozesse des politischen Systems sowie der Einstellung zur eigenen Rolle innerhalb des Systems
+- Die Frage, ob ein politisches System von der Gesellschaft unterstützt wird
+
+### Einstellungen zum politischen System
+
+- drei Ebenen
+
+- kognitiv: Wissen über das politische System, die politischen Rollen und deren Inhaber
+- affektiv: die gefühlsmäßige Bindung an ein politisches System (Patriotismus etc.)
+- evaluational (= bewertend): Urteile und Meinungen über das politische System und dessen Funktionieren
+
+### Einstellungen wozu
+
+- *Gesamtsystem:* das politische System als solches
+  - *Inputseite:* Die Möglichkeit der Bürger, eigene Interessen und Präferenzen einzubringen
+  - *Outputseite:* Entscheidungen des politischen Systems u. deren Wirkung
+- *Selbst:* Einstellung zur eigenen Rolle im politischen System
+
+### Drei Idealtypen
+
+- parochiale Kultur: (beschränkt, engstirnig) z. B. traditionelle Stammesgesellschaft mit geringer Rollendifferenzierung (Häuptling, Schamane etc. sind nur diffuse politisch-religiös-wirtschaftliche Funktionen); alle Einstellungsvariablen tendieren gegen null; aber auch in modernen Staaten möglich
+- Untertanenkultur (subject political culture): Obrigkeitsstaat, in dem die Ausdifferenzierung politisch-administrativer Funktionen schon sehr hohen Grad angenommen hat; Bürger sind sich dessen bewusst; aber: der Bürger ist Adressat von Entscheidungen, die er nicht selbst angeregt hat (input) und an deren Zustandekommen er nicht beteiligt war (self).
+- Partizipative Kultur (participant political culture): hier kommen die Input-Seite und die Wahrnehmung der eigenen aktiven Rolle hinzu
+
+### (In)Kongruenztypen
+
+Kongruenz-Problem
+
+- parochial: traditionale Gesellschaft
+- subject, participant: zentralisierter, autoritärer Staat
+- civic culture: Demokratie
+
+- rapider gesellschaftlicher Wandel führt häufig zu Inkongruenz und damit Instabilität
+- *Kongruenz zwischen politischem System und politischer Kultur ist eine entscheidende Voraussetzung für politische Stabilität*
+
+(In)Kongruenztypen: allegiance (Treue), apathy (Gleichgültigkeit), alienation (Entfremdung)
+
+## Jürgen Habermas und die Kolonialisierung der Lebenswelt
+
+### Wie muss der Staat bzw. die politische Ordnung beschaffen sein, damit die Kolonialisierung der Lebenswelt durch das System beschränkt werden kann?
+
+- *Grundeinsicht:* Die Steuerung der Gesellschaft erfolgt in modernen, ausdifferenzierten Gesellschaften über das Medium des Rechts.
+- Recht muss *positiv gesatzt* (sowie sanktionsfähig) und *legitim* sein, um auf Dauer akzeptiert zu werden.
+- *Legitimität* ist der *Schlüssel* zur Kontrolle der Kolonialisierung der Lebenswelt, doch *wann entsteht Legitimität*?
+
+#### Entstehung von Legitimität
+
+- Recht ist legitim, wenn Betroffene sowohl Adressat als auch Autor der Rechte
+- Rechte, die Mitwirkung ermöglichen, müssen in einer Verfassung verbürgt sein, “System der Rechte“
+  - Rechte, die die Souveränität der politischen Aggregation in der Rechtssetzung verbürgen (Volkssouveränität etc.)
+  - Autonomierechte der Bürger (Meinungsfreiheit etc.)
+  - Einklagbarkeit von Autonomierechten
+  - Teilnahmerechte an Prozessen der Meinungs- und Willensbildung (Wahl, Koalitionsfreiheit, Versammlungsfreiheit etc.)
+  - Lebensbedingungen, die chancengleiche Nutzung von 1 bis 4 sichern (Gleichwertigkeit der Lebensverhältnisse)
+- Läuft zu auf Grundgesetz.
+
+#### System von Schleusen
+
+- Zwischen „politischem Zentrum“ und der „Peripherie der Öffentlichkeit“ muss es ein System von „Schleusen“ geben
+- konkrete institutionelle Forderungen (Voraussetzungen für eine echte „deliberative Demokratie“)
+  - Einführung plebiszitärer Elemente
+  - basisdemokratische Verfahren
+  - Konstitutionalisierung der Massenmedien, um diese dem Einfluss der politischen Funktionseliten zu entziehen
+  - Entdifferenzierung der Funktionen von polit. Parteien (Willensbildung und Personalrekrutierung)
+  - reflexiver Umgang mit Problemen in den Parlamenten
+  - Demokratisierung von Justiz und Verwaltung (im Sinne einer institutionalisierten  „Rechtsöffentlichkeit, die über bestehende Expertenkultur hinausreicht“)
+
+## Grundaussagen agonaler Politik (Chantal Mouffe)
+
+- Politik/politische Ordnungen werden als hegemoniale Gebilde verstanden, die sich selbst zu rechtfertigen suchen, aber Ausschlüsse produzieren – und nicht Konsense
+- Die Politik (Institutionen, vorherrschende Akteure und ihre Diskurse) ist nicht identisch mit dem Politischen (unhintergehbare Antagonismen)
+- Antagonismen dürfen nicht unterdrückt werden, weil sie die demokratischen Institutionen selbst gefährdet. „Die Entstehung agonistischer Konflikte ist so lange wahrscheinlich, wie für
+widerstreitende Stimmen legitime agonistische Artikulationsmöglichkeiten existieren“ (Mouffe 2003/2010, 30)
+- Sie müssen in Agonismen überführt werden (von Feinden zu Gegnern) (Unterschied zu Schmitt)
+
+## Colin Crouch und die Entleerung der Demokratie
+
+### Zentrale Elemente der Postdemokratie
+
+- Demokratische Institutionen und Verfahren blieben in formaler Hinsicht vollständig erhalten, der Prozess des Bedeutungsverlustes für die Entscheidungsfindung bleibe zunächst verborgen.
+- Parteienwettbewerb löse sich von politischen Inhalten und werde rein strategisch instrumentalisiert (auch unter dem Einfluss moderner Medien).
+- Dominanz einer wirtschaftlichen Perspektive auf der inhaltlichen Ebene; d. h. politischer Input der Wähler trete hinter einer einseitig neoliberal verstandene Sicht von wirtschaftlichen Sachzwängen zurück.
+- Faktische Entmachtung des Demos: Bürger wählten zwar noch, aber eine echte Repräsentation ihrer Interessen finde nicht mehr statt. Gemeinwohl werde höchstens indirekt über eine erfolgreiche
+Wirtschaftspolitik angestrebt.
+
+### Auswirkungen für das demokratische Ideal
+
+- Demokratisches Ideal
+  - System politischer Gleichheit
+  - Garant sozialer Gerechtigkeit
+- Diagnose
+  - Postdemokratie wird dem Ideal immer weniger gerecht
+  - keine Diagnose eines Zustands, sondern eines Entwicklungstrends
+- Folgen (insbesondere der wirtschaftlichen Perspektive)
+  - wachsende Kluft zwischen Arm u. Reich
+  - Abbau von Sozialleistungen
+  - mangelnde Regelungen zur Eindämmung des Einflusses von Unternehmensinteressen auf die Politik (nicht mehr in der „Lobby“ sondern am Regierungstisch)
+  - *Gefühl des Einflussverlustes u. daraus resultierende Apathie der Bürger; vor allem in den sozial schwächeren Schichten*
