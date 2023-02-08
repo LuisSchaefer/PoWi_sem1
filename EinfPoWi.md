@@ -122,6 +122,7 @@ wie auch zwischen Staaten
 
 ## Gewalt
 
+<!-- md2apkg ignore-card -->
 *STEHT NICHT AUF DER LISTE VON MAY *
 
 - immer: physische Beeinträchtigung
@@ -184,6 +185,7 @@ Staatsrechtliche Definition von Georg Jellinek (1851-1911): Staatsgebiet, Staats
 
 ## Vom Sicherheits- und Rechtsstaat (Sicherheit und Freiheit) zum Kampf um soziale Rechte (Solidarität)
 
+<!-- md2apkg ignore-card -->
 *NICHT AUF DER LISTE VON MAY*
 
 - am ursprünglichen (von Locke und Hobbes erdachten) Staatenkonstrukt entzündete sich ab dem 19. Jahrhundert sozialistische Kritik
@@ -221,6 +223,7 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
   
 ## Der pluralistische Konflikt als Konflikt von Interessen
 
+<!-- md2apkg ignore-card -->
 *NICHT AUF MAYS LISTE*
 
 - Interesse als verhaltensorientiertes Ziel oder Bedürfnis von Einzelnen oder Gruppen in einem sozialen Umfeld
@@ -238,6 +241,7 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
 
 ### Ziel und Bedürfnis/Nutzenorientierung
 
+<!-- md2apkg ignore-card -->
 *NICHT AUF MAYS LISTE*
 
 - ökonomisch, politisch, kulturell, ökologisch
@@ -247,6 +251,7 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
 
 ### Verhalten
 
+<!-- md2apkg ignore-card -->
 *NICHT AUF MAYS LISTE*
 
 - Geltendmachung der Interessen
@@ -256,6 +261,7 @@ Bezugspunkt ist Konsens. Wie viel Konsens möglich/ nötig ist, ist Gegenstand p
 
 ### Soziales Umfeld
 
+<!-- md2apkg ignore-card -->
 *NICHT AUF MAYS LISTE*
 
 - politische Rahmenbedingungen (z. B. Vereinigungsfreiheit in Art. 9 GG)
@@ -274,6 +280,7 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
 
 ## Demokratie und Legitimität
 
+<!-- md2apkg ignore-card -->
 *NICHT AUF MAYS LISTE*
 
 - Das Diktum von Abraham Lincoln: Demokratie sei "die Herrschaft
@@ -308,6 +315,7 @@ Gemeinwohl a posteriori statt a priori, d.h. kann nur im Nachhinein empfunden we
 
 ### Merkmalsdimensionen des Demokratiebegriffes
 
+<!-- md2apkg ignore-card -->
 *NICHT AUF MAYS LISTE*
 
 - Unterscheidung Deskription und Präskription (keine klaren Grenzen), es braucht beide Definitionen
@@ -399,7 +407,6 @@ Demokratie benötigt
 
 ### Verbindung der antiken Tradition mit christl. Herrschaftsvorstellungen
 
-- (Thomas von Aquin übersetzt sämtliche Werke des Aristoteles ins Lateinische, Tradition der Aristoteles-Kommentare)
 - Anerkennung des Gemeinschaftscharakters des Menschen, aber: Notwendigkeit einer Leitung, weil die Pluralität der menschlichen Zwecke dies verlangt
 - Ablehnung Aristokratie (Streit), Befürwortung Monarchie ("natürliche Herrschaftsform", Geist-Körper-Analogie)
 - Gütekriterium monarchischer Herrschaft: Orientierung an Gott
@@ -416,9 +423,8 @@ Demokratie benötigt
 *GROB*
 
 - Reformation -> Konflikt zw. Kaiser und Reichsstände
-  - Konfliktlinie: Deutschen Könige und Kaiser vs. Reichsfürsten (Eigenständigkeit der Reichsfürsten)
   - Augsburger Religionsfriede 1555
-- Dreißigjähriger Krieg -> Staatenbildungskrieg, Souveränität der Reichsfürsten (gegenüber der Zentralmacht, aber auch den Landständen)
+- Dreißigjähriger Krieg -> Staatenbildungskrieg, Souveränität der Reichsfürsten 
   - 1648 Westfälischer Friede: Bestätigung des Augsburger Religionsfriedens unter Hinzunahme der ‚Reformierten‘
 - Heilige Römische Reich deutscher Nationen als zentraler Akteur
 
@@ -432,10 +438,7 @@ Demokratie benötigt
 
 - Abstrakte Staatstheorie: Macht, Herrschaft, Staat, Souveränität, Heil, Widerstand, Ehrlichkeit, Lüge (wie Hobbes, Locke, Machiavelli)
 - Praxisbezug und Politikberatung: konkrete "kleinkarierte" (Bleek) Verwaltungstechniken des Machterwerbs und Machterhalts, aber auch Entwicklung unterschiedlicher Politikfelder ("Policey"), v.a. ab 17. Jh.
-
-### Niccolo Machiavelli als Techniker der Macht und Ratgeber des Fürsten
-
-- ToDo (Folie 11, VL5)
+- Niccolo Machiavelli als Techniker der Macht und Ratgeber des Fürsten
 
 ### Studiengänge für Kameralwissenschaft im 18. Jh. in Halle und Frankfurt/Oder für den preußischen Absolutismus
 
@@ -443,8 +446,6 @@ Demokratie benötigt
 - Sujet (Gegenstand) der Professoren: Kameralistische Lehrbücher
 
 ### Politikwissenschaft als Studienfach für Staatsbeamte des neuzeitlich-absolutistischen Territorialstaates (Kameralwissenschaft)
-
-*GROB*
 
 - Polizeiwissenschaft ("Policey"): politische Themenfelder zum Zustand einer guten Ordnung eines städtischen oder territorialen Gemeinwesens (z.B. Kriminal- und Strafrechtswesen, Zenurs, Verwaltung, Wirtschaftspolitik -> Merkantilismus)
   - Merkantilismus aktive Wirtschaftspolitik des Staates, Zölle auf fertig importierte Produkte, unverarbeitetes günstiger
@@ -464,27 +465,25 @@ Demokratie benötigt
 
 - Ende des Ancien Régime (franz. Revolution)
 - Napoleonische Besatzung, Ende des Heiligen Römischen Reiches Deutscher Nation und Gründung des Rheinbundes
-(1806)
-- Völkerschlacht Leipzig (1813), Wiener Kongress und Deutscher Bund (1815), Heilige Allianz (1815) - Restauration
-- Wartburgfest (1817), Hambacher Fest (1832) - Gegenbewegung
+- Völkerschlacht Leipzig, Wiener Kongress und Deutscher Bund, Heilige Allianz - Restauration
+- Wartburgfest, Hambacher Fest - Gegenbewegung
 
 ### Napoleonische Zeit als Impuls für inhaltliche Kontroversen: Diskussion um Verfassung am Beispiel Dahlmann/Stahl
 
 *GROB*
 
+![dahlmann_stahl](assets/dahlmann_stahl.png)
+
 - Diskussion über: Stellung des Monarchens und des Parlaments, sowie die Freiheit und Grundrechte der Bürger
 - Friedrich Christoph Dahlmann
   - starke Stellung des Monarchen mit Vetorecht, 2 Kammern Parlamente (Gesetzes- und Budgetrecht) -> klar an Regeln der Verfassung gebunden
   - konst. Monarchie (Schwerpunkt auf Konstitution = Verfassung)
-  - Reform
-  - liberal
   - Rationalismus (Vertragsdenken)
 - Julias Stahl
   - Monarch muss Verfassung achten, aber Staat keine Vertragskonstruktion sondern als Institution die von Gott eingesetzt wurde -> stärkere Rechte des Monarchen (Initiativ- und Budgetrecht, (nicht) Einberufung Volksvertretung)
   - Volksvertretung dient der Zustimmung des Monarchen
   - Monarchen soll Interesse des Staates und Gemeinwesens im Fokus haben, nicht die eigenen
   - konst. Monarchie (Schwerpunkt auf Monarchie)
-  - Tradition
   - konservativ (in dem Fall eher monarchistisch)
   - Religion (Staat ist von Gott eingesetzte Institution)
 
@@ -509,7 +508,6 @@ Demokratie benötigt
 
 - Ende 1. WK
 - 1918: Revolution, Abdankung Kaiser, Ausrufung Republik
-- 1918-1919: Republiken Österreich, Tschechoslowakei, Ungarn
 - Feb. 1919- Mai 1920: Verfassungsgebende deutsche Nationalversammlung (Weimar)
 - 28.06.1919: Versailler Vertrag
 - 1920: erste reguläre Wahl zum Reichstag
@@ -553,11 +551,9 @@ ab 1948:
   
 #### Zeitumbruch Weimarer Republik zu NS Diktatur
 
-- 30.01.1933: Ernennung Hitlers als Reichskanzler
-- 1933: Ermächtigungsgesetze
-- 1935: "Nürnberger Gesetze"
-- 9./19.11.1938: Progrome gegen Juden
-- 01.09.1939-08.05.1945: Zweiter Weltkrieg
+- Ernennung Hitlers als Reichskanzler
+- Ermächtigungsgesetze + "Nürnberger Gesetze" + Progrome gegen Juden
+- Zweiter Weltkrieg
 
 ## Demokratiewissenschaft – Orientierung in den 40er und 50er Jahren
 
@@ -583,6 +579,8 @@ ab 1948:
   - Fachzeitschriften
 
 ### Fachzeitschriften
+
+<!-- md2apkg ignore-card -->
 
 Frühe Fachzeitschriften:
 
@@ -648,7 +646,7 @@ Weitere Fachzeitschriften:
 - PoWi als empirische Sozialwissenschaft
 - meist in Fakultäten für Sozialwissenschaft, Sozial- und Verhaltenswissenschaften etc. (nicht mehr Geisteswissenschaft)
 
-#### Merkmale behavioral revolution
+#### Merkmale behavioral revolution (Merriam)
 
 - Theoriegeleitetheit der Forschung
 - Suche nach Regelmäßigkeiten
@@ -667,6 +665,7 @@ Weitere Fachzeitschriften:
   
 ## Entwicklung der Politikwissenschaft seit den 80er Jahren
 
+<!-- md2apkg ignore-card -->
 *NICHT IN MAYS LISTE*
 
 - *Entspannung* der politischen Konflikte im Fach (von Ausnahmen abgesehen)
@@ -775,6 +774,7 @@ Charakter wissenschaftlicher Aussagen repräsentieren (explizit-problematisieren
 
 ## Was ist eine Theorie?
 
+<!-- md2apkg ignore-card -->
 *NICHT IN MAYS LISTE*
 
 Fragen an die Welt, z.B.
@@ -787,6 +787,7 @@ Verknüpfung von Aussagen (über die Welt) zu einem komplexen Aussagengefüge
 
 ### Wie funktioniert Theoriebildung?
 
+<!-- md2apkg ignore-card -->
 *NICHT IN MAYS LISTE*
 
 - *Induktiv* Ausgangspunkt sind einzelne Tatsachenaussagen und konkrete Zusammenhänge, die zu einem Aussage- /Erklärungszusammenhang verknüpft werden (Beispiel: Parteien artikulieren den Willen ihrer Mitglieder an die politischen Entscheidungsträger und die Bürger)
@@ -934,7 +935,7 @@ Theorie zu weit gespannt; wenn man alles als unspezifische Präferenz definiert,
 
 #### Erklärung Individuelles Verhalten (auch kollektiver Akteuere)
 
-- nicht erklärt mt einer *logic of consequentialism* (Logik der angenommenen Folgen)
+- nicht erklärt mit einer *logic of consequentialism* (Logik der angenommenen Folgen)
   - nach dieser fragen Akteuere erst nach Handlungsalternativen um diese dann nach Nutzenerwägungen in eine Rangfolge zu bringen
 - sondern durch *logic of appropriateness* (Logik der Angemessenheit)
   - also institutionelle Regeln, in die Akteure hinein-sozialisiert werden
@@ -1014,7 +1015,7 @@ Soziale Systeme: Merkmale
 
 „Somit bestehen ‚politische Strukturen‘ bzw. ‚politische Strukturgefüge‘ aus den *routinemäßig aufeinander abgestimmten Sinndeutungen und Handlungen* jener Personen, die am Prozess der *Herstellung allgemeiner Verbindlichkeit* fördernd oder hemmend beteiligt sind. Die Gesamtheit aller politischen Strukturen wird ‚politisches System‘ genannt, in dem wiederum vielerlei politische Subsysteme zu unterscheiden sind: Regierungen, Parlament, Fraktionen, Parteien, Verbände, Bürgerinitiativen, Verwaltungen, Gerichte und dergleichen mehr.“
 
-- Herstellung allgemeienr Verbindlichkeit: Spezifikum politischer System im Output
+- Herstellung allgemeiner Verbindlichkeit: Spezifikum politischer System im Output
 - routinemäßig aufeinander abgestimmten Sinndeutungen und Handlungen: determiniert/ herbeigeführt durch die Regeln eines Systems
 
 ### Klassiker politikwissenschaftlicher Systemtheorie - David Easton
